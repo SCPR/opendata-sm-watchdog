@@ -18,23 +18,23 @@ logging.basicConfig(
 
 class Watchdog(object):
     """
-    Tricks for downloading and archiving Checkbook LA data.
+    Tricks for downloading and archiving Checkbook SM data.
     """
     format_list = ["csv", "json"]
 
-    url_template = "https://data.lacity.org/api/views/%(id)s/rows.%(format)s?accessType=DOWNLOAD"
+    url_template = "https://data.smgov.net/api/views/%(id)s/rows.%(format)s?accessType=DOWNLOAD"
 
     headers = {
         "User-agent": "KPCC - Southern California Public Radio (ckeller@scpr.org)"
     }
 
-    catalog_url = "https://data.lacity.org/browse?limitTo=datasets&sortBy=alpha&view_type=table&limit=1000"
+    catalog_url = "https://data.smgov.net/browse?limitTo=datasets&sortBy=alpha&view_type=table&limit=1000"
 
     def handle(self, *args, **kwargs):
         """
         make everything happen
         """
-        print "Running the checkbook la watchdog"
+        print "Running the checkbook sm watchdog"
         self.set_options()
         self.get_file_list()
         [self.download(f) for f in self.file_list]
