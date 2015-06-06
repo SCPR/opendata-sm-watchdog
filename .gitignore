@@ -1,5 +1,4 @@
-/csv/police-calls-for-service.csv
-/csv/santa-monica-parking-lot-counts.csv
-/json/big-blue-bus-routes.json
-/json/police-calls-for-service.json
-/json/santa-monica-parking-lot-counts.json
+csv/police-calls-for-service.csv
+csv/santa-monica-parking-lot-counts.csv
+json/police-calls-for-service.json
+json/santa-monica-parking-lot-counts.json
