@@ -1,0 +1,725 @@
+Type,Code,Code Section,Taxicab Rule Number,Violation Description,Penalty Schedule,City Penalty,Current State Fee,Fine/Penalty,Unit,Additional Cost,Late Penalty Charge,Comments,Notes
+Administrative Citation Fine,SMMC,4.04.070,,Permit required to keep certain animals,,,,$500.00,,,,Santa Monica Municipal Code (SMMC) ,
+Administrative Citation Fine,SMMC,4.04.080,,"Restrictions on keeping horses, mules, burros, or jacks",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.090,,"Fowls, maximum number permitted",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.100,,"Permit required to keep hogs, bulls, or billy goats",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.110,,Restrictions on keeping cow or goats,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.120,,Staking certain unfenced animals prohibited,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.130,,Keeping bees prohibited,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.140,,Conditional permit requirements for certain animals,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.150,,Animals at - large,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.160,,"Dogs prohibited on schools, beaches and parks",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.170,,Licensing of dogs required,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.200,,"Dog kennels, business license required",,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.210,,"Non-residents, dog license requirements",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.230,,"Found animals, duty to surrender",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.270,,Sufficient sustenance and shelter required,,,,$150.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.290,,"Quarantined animal, containment required",,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.300,,"Dogs, rabies vaccine required",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.330,,"Veterinarians, duties of persons vaccinating dogs",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.340,,"Dogs, rabies tag required",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.350,,"Imported dogs, regulations",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,F&AG,30503,,"Impounded dogs, unspayed/unneutered (pass through to State)",,,,$40.00,,,,Food and Agricultural Code (F&AG),
+Administrative Citation Fine,SMMC,4.04.360,,"Impounded dogs, proof of rabies required",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.370,,"Dogs, public nuisance/fecal matter",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.385,,"Dogs in public, duty of person to possess clean-up materials",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.04.410,,"Vicious dogs, restrictions",,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.08.270,,Restrictions on leaf blower operation,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.12.060,,Exterior Noise Standards,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.12.070,,Excessive Vibration,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.12.090,,Noisy Animals,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.12.100,,"Public parks, beaches or recreational facilities restrictions",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.12.110,,"Demolition, excavation, grading, spray painting, construction, maintenance or repair of building activity-hours & noise limits",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.12.120,,Failure to Post Construction Hours Sign,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.12.150,,Business Support Operations,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.12.160,,Interference with Enforcement,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.12.180,,Gardening/Landscaping Activities - Hours of Operation,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.44.010,,Smoking in Elevator or Public Restroom,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC, 4.44.020,,"Smoking in public places, work places, and restaurants",,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.44.030,,Sale of tobacco by vending machine or out of package,,,,$750.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,4.68.040,,Failure to Obtain Community Events Permit,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.04.240,,"Dogs, Cats or Animals in Eating Places",,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.060,,Unapproved Use of Privy (Port-a-potty),,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.070,,Failure to Clean Adjacent Sidewalk,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.080,,Failure to Maintain Clean Premises,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.090,,Failure to Properly Store Fertilizer,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.100,,Excessive manure/fertilizer as defined Near Residential,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.110,,Offensive Substance on Public Property,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.140,,Removal/Destruction of Building Officer's Posted Notice,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.170,,Unauthorized Refuse Containers in the Public Way,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.330,,Obstruction of Water Meter/Gate Valves,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.340,,Unauthorized Private Dumping Ground,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.370,,Failure to Comply with County Health Department Standards,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.08.380,,Refuse Collection During Prohibited Hours,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.040,,Prohibited Discharge Standards,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.050,,Specific Pollutant Limitations,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.070,,Pretreatment Facilities,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.080,,Additional Pretreatment Measures,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.090,,Spill Prevention Plans,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.100,,Good Housekeeping Provision,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.110,,Requirements for Restaurants and other Commercial Cooking,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.310,,Periodic Compliance Reports,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.320,,Report of Changed Conditions,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.330,,Reports of Potential Problems/Slug control Plans,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.370,,Monitoring and Sampling Pre-notification,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.390,,Sample Collection,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.400,,Analytical Requirements,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.420,,Falsifying Information,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.430,,Inspection and Sampling,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.20.440,,Monitoring Facilities,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.04.020,,Operating Business without Proper City License,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.04.270,,Failure to Post Business License,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.14.060,,Service Business Activities Requiring Police Permits,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.28.030,,News rack - Operating and Maintenance Requirements,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.28.030,,News rack Without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.28.040,,News rack - Maintenance and Installation Standards,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.28.050,,News rack - Standards for Materials Sold,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.32.070,,Soliciting Trade on Sidewalk,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.46.020,,Failure to Obtain Permit for Liquidation Sale,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.46.100,,Liquidation Sale - Failure to Post Permit,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.48.030,,Vehicle for Hire - Business license required,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.48.040,,Vehicle for Hire - Compulsory Insurance Coverage ,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.48.050,,Vehicle for Hire - Driving of Vehicles,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.48.060,,Vehicle for Hire - Direct Route,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.48.065,,Vehicle for Hire - Compensation for Access to Passengers,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.020,,Taxicabs - Rules and Regulations,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.040 (b),,Taxicabs - Franchise Required,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.040 (i)(1),,Taxicabs - Fees - Annual Franchise Fees,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.040 (i)(2),,Taxicabs - Fees - Annual Taxicab Vehicle Permit Fees,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.040(g),,Taxicabs - Taxicab Vehicle Permit Required,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.040(h),,Taxicabs - Taxicab Driver’s Permit Required,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.050(c),,Taxicabs - Effect of Suspension or Revocation,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.060 ,,Taxicabs - Unauthorized Taxicab Services Prohibited,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.080,,Taxicabs - Taxicabs Identification and Vehicle Operating Requirements,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.090,,Taxicabs - Parking of Vehicles; Stands,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.095,,Vehicle for Hire  -  Access to Passengers on Business Premises,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.100,,Taxicabs - Taxicab Signs,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.110,,Taxicabs - Taximeters and Rates,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.120,,Taxicabs - Full Use of Taxicab,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.49.130,,Taxicabs - Taxicab Identification Decal Required,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.116.040,,Unauthorized Display on Municipal Pier,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.030,,Valet Parking without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.060,,Valet Parking - Operating Requirements,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.070,,Valet Parking -  Penalties,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.090,,Valet Parking: Insurance Requirements,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.110,,Valet Parking - Regulations,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.120,,Authorized Valet Parking Zones,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.130,,Valet Parking: Conformance with Applicable Laws,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.140,,Valet Parking - Conditions Imposed on Permit,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,6.120.150,,Valet Parking - Requirements for Downtown Valets,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.010,,Excavation in The Public Way Without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.100,,Location of Excavations,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.160,,Excavation in Public Way - Vehicle/Pedestrian Access,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.210,,Regulations for Resurfacing Work in Public Way,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.230,,Excavation in Public Way - Vehicle Crossing,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.240,,Excavation in the Public Way - Per Plat/Application,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.240,,Excavation in the Public Way - Due Diligence,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.490,,Connection of Sewer Without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.650,,Sewage from Vehicle into Sewer System Without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.670,,Materials/Equipment in Public Way Without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.700,,Revocation of Permits - Work to Cease,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.710,,Failure to Remove Materials/Equipment in Public Way,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.720,,Illumination of Building Materials Stored in Public Way,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.730,,Regulations for Building Material Deposits and Cranes,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.740,,Mixing/Storing Cementitious Materials On/Near Street,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.750,,Failure to Post Street Use Permit,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.04.760,,Construction Debris in Public Way,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.10.040,,Urban Runoff Pollution Control Practices - All Properties,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.10.050,,Urban Runoff Reduction Requirements,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.10.060,,Urban Runoff Requirements for Construction Sites,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.12.060,,Temporary Water Service Without Permit.,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.12.090,,Additional Best Management Practices,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.12.350,,Unauthorized Use of City Water,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.16.020,,Excessive Water Use,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.18.090,,Violation of Plumbing Code Standards,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.36.020,,Moving Building/Structure on City Street Without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.110,,Planting of Tree in Parkway Without Permit,,,,$300.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.110,,Trim or Prune City Tree without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.110,,Injure/Interfere With City Tree - No Replacement Required,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.110,,Removal of City Tree without Permit,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.110,,Injure/Interfere With City Tree - Replacement Required,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.130,,Interference with City Tree Administration,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.140,,Intentional Damage to City Tree,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.150,,Unauthorized Attachment to City Tree,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.40.160,,Protection of Trees During Construction/Demolition,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.44.020,,Maintain Premises Free of Weeds,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.48.020,,Litter in Public Places,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.48.040,,Sweeping litter into gutters,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.48.050,,Property Owner to Keep Adjacent Public Way Free of Litter,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.48.060,,Litter on Private Property,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,7.48.070,,Owner to Maintain Premises Free of Litter,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.04.010,,Failure to Maintain - Technical Codes,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.030,,Continuing Use after Order to Discontinue Use,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.050,,Construction Work Without Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.070,,Construction Work with Expired Permit,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.100,,Failure to Provide Special Inspection as Required,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.110,,Installation of Work from Unapproved Fabricator,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.120,,Failure to Provide Structural Observation as Required,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.130,,Occupancy Prior to Issuance of Certificate of Occupancy/ Final Inspection Approval,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.160,,Connection to Utilities Without Approval,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.160,,Reconnecting Utilities after Order to Disconnect,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.170,,Sandblasting Regulations - General,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.170,,Sandblasting - Failure to Give Three (3) Day Notice,,,,$750.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.190,,Violation of Temporary Trailer Regulations,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.40.020,,Fireworks Prohibited,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.08.200,,Failure to Brace Water Heater,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.52.020,,Maintaining Pool/Spa/Fountain Water Clarity,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.84.020,,Maintaining Drainage,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.96.030,,Responsibility for Maintenance - Public Nuisances,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.96.220,,"Abandoned, Wrecked, Dismantled and Inoperative Vehicles",,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.100.010,,Violation of Means and Methods Plan,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.100.040,,Failure to Provide Construction Notice to Residential Tenant,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.060,,Underground Storage Tank (UST) Permit ,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.060,,Underground Storage Tank Documentation On-Site,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.140,,Underground Storage Tank System Maintenance (Minor),,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.140,,Underground Storage Tank System Maintenance (Intermed.),,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.140,,Underground Storage Tank System Maintenance (Major),,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.180,,Underground Storage Tank System Monitoring (Major),,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.108.100,,Landscape and Irrigation Requirements,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.02.020,,Excessive Yard Sales in the R-1 District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.04.020,,Excessive Yard Sales in the R2R District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.06.020,,Excessive Yard Sales in the R-2 District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.08.020,,Excessive Yard Sales in the R-3 District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.10.020,,Excessive Yard Sales in the R-4 District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.42.020,,Excessive Yard Sales in the R-MH District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.44.020,,Excessive Yard Sales in the OP-1 District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.48.020,,Excessive Yard Sales in the OP-Duplex District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.50.020,,Excessive Yard Sales in the OP-2 District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.52.020,,Excessive Yard Sales in the OP-3 District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.54.020,,Excessive Yard Sales in the OP-4 District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.62.020,,Excessive Yard Sales in the R2B District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.64.020,,Excessive Yard Sales in the R3R District,,,,$100.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.12.030,,Unapproved sidewalk café in RVC district,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.14.030,,Unapproved sidewalk café in BCD district,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.15.030,,"Unapproved sidewalk café in BSC, BSC3, BSC4 district",,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.16.030,,Unapproved sidewalk café in C2 district,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.18.030,,Unapproved sidewalk café in C3 district,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.20.030,,Unapproved sidewalk café in C3C district,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.22.030,,Unapproved sidewalk café in C4 district,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.26.030,,Unapproved sidewalk café in C6 district,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.28.030,,Unapproved sidewalk café in CM district,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.08.30.030,,Unapproved sidewalk cafe in CP district ,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.080,,"Over Height Hedge wall or fence, Encroaching hedges",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.090,,Hazardous Visual Obstructions,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.150,,Refuse and Recycling Storage Areas,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.270,,Outdoor Commercial Lighting Standards,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.280,,Glare Beyond Property,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.300,,"Humidity, Heat, and Cold Beyond Property",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.310,,"Excessive Noise - Loudspeaker. Buzzer, Etc.",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.320,,Storage in Required Front/Side Yard or Vacant Lot,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.330,,Commercial/Industrial Vibration,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.340,,Unpermitted Outdoor Uses,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.02.420,,Restaurant - Failure to Post Seating Capacity,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.08.050,,"Number of Bicycle, Vanpool, Carpool Spaces Required",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.08.060,,Storage in Parking Space,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.08.120,,Marking of Parking Spaces,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.08.130,,Wheel Stops,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.08.220,,Maintain Use of Required Off-street Parking Space,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.10.10.030,,Maintain Existing Loading Space,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.040,,Auto Dealership - Parking and Vehicle Storage,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.040,,Auto Dealership - Failure to Control Noise ,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.040,,Auto Dealership - Vehicles Awaiting Repair in Street/Alley,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.040,,Auto Dealership - Test Driving on Unapproved Streets,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.040,,Auto Dealership - Loading And Unloading of Vehicles,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.040,,Auto Dealership - Hours of Operation Near Residential District,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.050,,Auto Rental -  Parking and Vehicle Storage,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.050,,Auto Rental - Failure to Control Noise,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.050,,Auto Rental - Loading and Unloading Vehicles,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.060,,Private Tennis Courts - Lighting,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.070,,Senior Group Housing - Lighting,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.090,,Game Arcades Bicycle Racks,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.12.150,,Outdoor Antique Markets,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.13.030,,Outdoor Newsstands - Zoning Regulations,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.040,,Service Station - Vehicle for Repair in Street/Alley,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.050,,Auto Repair - Open Door for Noise/Body& Fender,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.050,,Auto Repair - Outdoor Repair Work,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.050,,Auto Repair - Operating Hours,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.050,,Auto Repair -  Litter,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.050,,Auto Repair - Sound,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.050,,Auto Repair - Onsite Storage of Vehicles Awaiting Repair,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.050,,Auto Repair - Test Driving on Unapproved Streets,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.050,,Auto Repair - Vehicles Awaiting Repair,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.060,,Auto Dealership - Failure to Control Noise ,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.060,,Auto Dealership - Vehicles Awaiting Repair,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.060,,Auto Dealership - Test Driving on Unapproved Streets,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.060,,Auto Dealership - Loading And Unloading of Vehicles,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.070,,Automobile Rental - Failure to Control Noise,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.070,,Automobile Rental - Loading and Unloading Vehicles,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.080,,Neighborhood Grocery Store - Delivery Hours,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.090,,Restaurant - Drive - up or Drive - through Speaker System ,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.090,,Restaurant - Hours of Operation Near Residential,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.130,,Auto Wash - Vehicles in Public Way,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.14.130,,Auto Wash - Hours of Operation Near Residential,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.18.070,,Illegal Nonconforming Occupancy/Use,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.04.20.30.030,,Conditions of Approval for Permits/Approvals for Land Use,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.08.050,,Residential Building Record - Failure to Deliver to Buyer,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.16.080,,Requirements for Employers of Ten to Forty-Nine Employees,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.16.090,,Submission of Emission Reduction and Worksite Plans,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.16.130,,Enforcement of Employers with 10 or more Employees,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.52.200,,"Sign On Street, Alley or Public Place",,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,9.52.210,,Failure to Remove Prohibited Nonconforming Sign,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,T19,567,,Mount Fire Extinguisher within 75 Feet Travel Distance,,,,$125.00,,,,Title 19 of the California Code of Regulation (T19),
+Administrative Citation Fine,T19,575.1,,Maintenance and Required Service Intervals for Fire Extinguishers,,,,$75.00,,,,Title 19 of the California Code of Regulation (T19),
+Administrative Citation Fine,T19,904,,Service Fire Sprinkler / Standpipe System,,,,$500.00,,,,Title 19 of the California Code of Regulation (T19),
+Administrative Citation Fine,T19,904,,Service Exhaust Hood and Duct Extinguishing System,,,,$500.00,,,,Title 19 of the California Code of Regulation (T19),
+Administrative Citation Fine,SMMC,5.24.040,,Business is required to submit Hazardous Material Release Response Plan (Business Plan),,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.24.050,,Elements of Business Plan not met,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.24.060,,Copy of Business Plan not maintained at business location,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.24.080,,Failure to report hazardous material release and /or implement Business Plan,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.24.110,,Failure to provide amendments to Business Plan as designated,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,5.24.120,,Business fails to establish Risk Manage./Prevention Program,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.060(a)(3)(A),,Owner/Operator Agreement,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.060(a)(3)(C),,Change of Operator Notification,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.060(c),,Assumption of new ownership,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.170,,Maintenance of Financial Responsibility,,,,$250.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.240(a)(1),,Tank operation without permit,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.240(a)(2),,Failure to abide by requirements of permit,,,,$1000.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.240(a)(3),,"Failure to permit inspection, perform monitoring, testing, rpting ",,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,SMMC,8.104.240(a)(6),,Failure to properly close tank,,,,$500.00,,,,Santa Monica Municipal Code (SMMC),
+Administrative Citation Fine,CFC,105.1.1,,Permits(s) Required,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,105.3.5,,Posting Permit,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,105.6.16(5),,Permit (remove fuel by means other than dispensing),,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,105.6.16(7),,Permit (place temporarily out of service),,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,105.6.16(8),,Permit (change contents of tank),,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,105.6.34,,Permit Required to Operate a Place of Public Assembly,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,107.1,,Maintenance of safeguards,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,107.2,,Testing and operation of equipment,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,107.2.1,,Availability of test and inspection records to Fire Dept.,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,107.5,,Overcrowding - Exceed Maximum Occupant Load,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,109.1,,Unlawful Acts,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,109.3.2,,Compliance with Orders and Notices,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,109.3.4,,Removal/Destruction of Sign/Tag,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,110.1,,Unsafe Building,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,110.1.1,,Unsafe Conditions,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,110.2,,"Stopping Use, Evacuation",,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,111.1,,Stop Order,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,111.4,,Stop Order - Failure to Comply,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,113.3,,Work Commencing Before Permit Issuance,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,301.1,,Clothes Dryer Free of Lint,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,303.2,,Fire Protection for Asphalt Kettles,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,304.1,,Combustible Waste Material Accumulation Creating a Fire Hazard,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,304.1.2,,Combustible Vegetation,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,304.3,,Location of Rubbish Dumpsters,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,305.1,,Clearance from Ignition Sources,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,308.1,,Open/Illegal Burning,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,308.1.5,,Candles/Open flame Prohibited,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,308.1.8,,Improper Use of Flaming Food/Beverage,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,308.3.1,,Improper Use of Candle/Open Flame,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,310.3,,No Smoking Signs Posted and Enforced,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,311.1,,Maintain Vacant Building/Property,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,311.3,,Combustible/Hazardous Material in Vacant Building,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,315.3,,Store Combustible Storage in Orderly Manner,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,315.3,,Provide Clearance Of Heat Producing Appliances and Combustible Materials (keep area lint free),,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,315.3.1,,Required Ceiling Clearance,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,315.3.2,,Combustibles Stored in Exit,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,315.3.3,,Combustible Material in Elec/Mech/Boiler Room,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,315.3.4,,Storage Combustible Materials in Attic or Under floor,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,315.4,,Storage Combustible Materials Outside of Building,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,401.3,,Failure to Report Emergency,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,401.5,,Report False Alarm,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,404.2,,Egress Plan Posted,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,405.1,,Emergency Plans/Fire Drills,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,408.3,,Fire Drills Required (Educational Occupancy),,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,503.4,,Obstruct Fire Access Road/Lane,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,504.1,,Maintain Required Access to Building,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,504.2,,Maintain Exterior Doors/Openings,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,505.1,,Premises Identification Required,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,506,,Provide Knox Box,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,506.1,,Knox Key box/Switch Required,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,506.2,,Key Box Maintenance / Key Inventory,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,507.5.4,,Obstruction of Hydrant/Fire Protection Equipment,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,509.1,,Provide Identification Sign On Room/Door,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,509.1,,Identify sprinkler control valves and secure or lock in the open position,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,603.5.2,,Maintain Heating Equipment/Appliance,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,603.8.2,,Spark Arrestor Required,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,603.9,,Protect Gas Meters/Piping,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,604.2.3,,Failure to Provide Exit Signs with Emergency Power,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,604.2.4,,Failure to Maintain Exit Illumination,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,604.3,,Maintain Emergency Power Equipment,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,605.1,,Abate Electrical Hazard,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,605.3,,Obstruct Electrical Switchboard/Panel,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,605.3,,Access to Electrical Switchboard/Panel,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,605.3.1,,Label Electrical Room/Switchboard/Panel,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,605.4,,Provide Listed Power Tap With Over-current Protection,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,605.4.1,,Improper Use/Power Taps,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,605.5,,Extension Cords Prohibited,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,605.5,,Improper Use of Extension Cords,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,609.3.3,,"Hoods, Grease - Removal Devices, Fans, Ducts, Etc. shall be Cleaned at Req'd Intervals",,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,703.1,,Maintain Fire Resistive Construction,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,703.1,,Maintain Fire Assemblies/Doors,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,703.2,,Obstruction of Fire Assembly/Door,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,703.4,,Test Fire Doors,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,704.2,,Protection of Floor Openings,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,807.1,,Maintain Flame Resistant Treatment,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,901.6,,Maintain Fire Protection System/Appliance,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,901.7,,Fire Watch Required - Problematic Systems,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,901.8,,Tamper with Fire Department Equipment,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,901.8,,Tamper with Fire Hydrant/Appliance,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,901.8.1,,Tamper with Barriers/Locks/Signs/Seals,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,903.2,,Fire Sprinkler System Required,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,903.2.11.6,,Additional Fire Suppression System Required,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,   904.11,,Hood Fire Extinguishing System Required to Protect all Areas,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,904.11.5.2,,Provide a Type K Fire Extinguisher  ,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,904.11.6.2,,Kitchen Hood Extinguishing System Service,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,904.11.6,,"Clean Grease in Hood, Filter or Ducts",,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,906.1,,Provide Fire Extinguisher Based on Use/Hazard/Occupancy,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,906.3,,Fire Extinguisher Size and Distribution,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,906.6,,Post Signs Indicating Location of Fire Extinguisher ,,,,$75.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC, 907.2,,Fire Alarm System Required to be Installed and Maintained,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,907.2.8,,Install and Maintain Smoke Detectors (Existing R-1),,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,912.3,,"Maintain Access To and Operation of Standpipes, FDC and Sprinkler control valves",,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1004.3,,Post Occupant Load,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1008.1.8.3 (2.2),,Signage - Doors Unlocked During Business Hours,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1008.1.9.4,,Exit Door Locked/Secured with Non-approved Lock,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1008.1.10,,Panic Hardware Required,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1008.2,,Locks on Exit Gates,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1009.1,,Maintain Stairways and Handrails,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1009.10,,Maintain Stairways and Handrails,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1009.9.3,,Storage Under Stairways,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1017.1,,Aisles Required,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1017.1,,Obstruct Aisle or Exitway,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1018.1,,Maintain Corridor,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1028.12,,Bonding of Chairs Required,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1029.4,,Equip Bars/Grates On Sleeping Room With Approved Interior Release Devices,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1030.1,,Failure to Maintain Exit Doors,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1030.3,,Exit Obstructions,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1030.4,,Exit Sign illumination Required,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1030.7,,Obstruct/Maintain Emergency Escapes,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1104.16.4,,Obstruct/Maintain Fire Escape,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,1504.4,,Fire Protection System Required,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,2203.2,,Dust Collection Required,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,2404.2,,Spray - Finish Operations Prohibited,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,2404.4,,Fire Protection System Required for Spray Booths/Rooms,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,2703.1,,General/Hazardous Materials,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,2703.3,,Release of Hazardous Materials,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,2703.3.1.2,,Provide Approved Method to Control Unauthorized Spills,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,2703.9,,Testing frequency,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,3313.1,,Standpipe System Required During Construction,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CBC,3406,,Provide Fire Escape Certification,,,,$500.00,,,,California Building Code Standards (CBC),
+Administrative Citation Fine,CFC,3504.1.1,,Hot Work - Clearance to Combustibles,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,3504.1.7,,Hot Work - Non Approved Location,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,3504.2.6,,Fire Protection Equipment for Hot Work,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,3505.2,,Storage of Welding Equipment,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5001.3.3,,Performance requirements of equipment/documentation,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5001.5.1,,Hazardous Material Management Plan,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5001.5.2,,Hazardous Materials Inventory Statement,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5001.6.1,,Permit/Monitoring requirements for out-of-service facilities,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.1,,General/Hazardous Materials,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.1.1,,Maximum Allowed Quantity Per Control Area,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.2,,Design/maintenance of equipment for hazardous materials,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.2.2.1(4),,Provide Emergency Shut-off Valves and Signs,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.2.5,,Empty Containers and Tanks,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.2.6,,"Maintenance of Equipment, Machinery, and Req'd Detection and Alarm",,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.2.6.2,,"Defective Cylinders, Containers and Tanks Shall Be Removed from Service",,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.2.9,,"Required Testing of Equipment, Devices and Systems per 5003.2.9.1",,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.3,,Release of Hazardous Materials,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.3.1.2,,Provide Approved Method to Control Unauthorized Spills,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.4,,MSDS Forms Required,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.5,,Provide Hazardous Identification Signs,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.5.1,,Provide Markings or Labels on Containers or Packages,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.9.1,,Training of Personnel/Written Procedures,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.9.3,,Provide Guard Posts to Protect Storage Area or Tanks ,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.9.5,,Provide Approved Means to Prevent Static Electricity Charge,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.9.8,,Separate Containers of Incompatible Materials,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5003.9.9,,Provide Shelves with Lip or Guard,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5004.1,,General Storage of Hazardous Materials,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5004.2.2,,Provide Secondary Containment for Hazardous Materials,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5004.2.2.5,,Approved monitoring method,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5004.11,,Keep Storage Area or Tanks Clear of Combustible Material,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5005.2.1.4,,Secondary Containment for Liquid Used in Open Systems Inside a Building,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5005.3.5,,Secondary Containment for Liquid Used in Open Systems Outside a Building,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5303.4.3,,Provide Labels on Gas Piping,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5303.5.3,,Secure Compressed Gas Cylinders,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5703.3,,Site Assessment,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.2.7.10,,Leak Reporting,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.2.11.1,,Compatibility,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.2.11.4,,Overfill prevention system,,,,$125.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.2.11.5.2,,Approved method of leak detection,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.2.13.1.2,,Conditions for tanks out of service for 90 days,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.2.13.1.3,,Conditions for tanks out of service for 1 year,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.3.1.1,,Store Flammable/Combustible Liquids in Approved Container,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.3.2,,Store Flammable/Combustible Liquid in Approved Cabinet(s),,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5704.3.3.3,,Remove Flammable Liquids Near Exits,,,,$1000.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5705.2.4(4),,Discontinue Gravity Dispensing,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5705.3.6,,Discontinue Cleaning Inside Building with Flammable Liquids,,,,$500.00,,,,California Fire Code (CFC),
+Administrative Citation Fine,CFC,5705.3.7.5.3,,Provide Secondary Containment—Flammable and Combustible Liquids,,,,$250.00,,,,California Fire Code (CFC),
+Administrative Citation Taxicab Fine,,,201a.,,Schedule D,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,201b.,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,202,,Schedule D,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,203,,Schedule D,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,204,,Schedule D - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,205,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,206,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,207,,Schedule D - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,208,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,209,,Schedule A - Conduct or B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,210,,Schedule A - Conduct or Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,211,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,212,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,213,,Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,214,,Schedule A - Conduct or B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,215,,Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,216,,Schedule D,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,217,,Schedule D,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,218,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,219,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,220,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,221,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,222,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,223,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,224,,Schedule D,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,225,,Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,226,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,227,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,228,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,229,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,230,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,231,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,232,,Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,233,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,234,,Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,235,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,236,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,237,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,238,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,239,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,240,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,241,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,242,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,243,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,244,,Schedule C - Conduct or Schedule D - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,301,,none ,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,302,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,303,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,304,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,305,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,306,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,307,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,401,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,402,,Schedule C - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,403a,,Schedule C - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,403b,,Schedule C - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,404,,Schedule C - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,405,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,406,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,407,,Schedule C - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,408,,Schedule C - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,409,,Schedule C - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,410,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,411,,"Schedule A - Conduct for 1st Violation, Schedule C - Conduct for 2nd Violation",,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,412,,Schedule C - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,413,,Schedule C - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,414,,"Schedule A - Conduct for 1st Violation, Schedule C -  Conduct for 2nd Violation",,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,415,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,416,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,417,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,418,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,419a,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,419b,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,419c,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,419d,,Schedule C - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,419e,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,420a,,Schedule C - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,420b,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,420c,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,421,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,422a,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,422b,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,422c,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,422d,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,423a,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,423b,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,423c,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,424,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,425,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,426,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,427,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,428,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,429,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430a,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430b,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430c,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430d,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430e,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430f,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430g,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430h,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430i,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430j,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430k,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430l,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430m,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430n,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,430o,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,431,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,432,,Schedule A - Conduct or Schedule C - Conduct at the Discretion of the City,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,433,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,434a,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,434b,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,435,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,436,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,437,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,438,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,439a,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,439b,,Schedule C - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,439c,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,440,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,441,,Schedule C - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,442,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,443,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,444,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,445,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,446,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,447,,Schedule A - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,448,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,449,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,450,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,451,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,452,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,453,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,454,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,455,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,456a,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,456b,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,456c,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,456d,,Schedule C,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,457,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,458,,Schedule A,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,501,,Schedule D,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,502,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,503,,Schedule A - Conduct or Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,504,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,505,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,506,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,507,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,508,,Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,509,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,510,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,511,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,512,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,513,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,514,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,601,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,602,,Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,603,,Schedule A - Public Safety or B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,604,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,605,,Schedule A - Conduct or Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,606,,Schedule A - Public Safety or Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,607a,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,607b,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,607c,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,607d,,Schedule A - Conduct or Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,607e,,Schedule A - Conduct or Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,607f,,Schedule A - Conduct or Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,607g,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,608,,Schedule A - Public Safety or Schedule B   -   Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,609,,Schedule A - Public Safety or Schedule B  -  Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,610,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,611,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,612,,Schedule A - Public Safety or Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,613,,Schedule A - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,614,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,615,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,616,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,617,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,618,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,619,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,620,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,621,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,622,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,623,,Schedule A or Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,624,,Schedule A - Conduct or Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,625,,Schedule A  -  Conduct or Schedule B - Conduct,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,626,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,627,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,628,,Schedule B,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,629,,Schedule A - Public Safety or Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,630,,Schedule C or Schedule D,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,631,,Schedule A - Public Safety or Schedule B - Public Safety,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,632,,Schedule B - Public Safety ,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,701,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,702,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Administrative Citation Taxicab Fine,,,703,,none,,,,,,,,NotesTaxis (http://www.smgov.net/Departments/Finance/Content.aspx?id=48603)
+Civil Penalty for Parking Violation and Late Payment,,3.04.030(a),,Beach Parking Lot Permits (Sunset to Sunrise),,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.04.050(a),,Payment of Posted Fee Required - Attendant,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.04.050(b),,Payment of Posted Fee Required - Pay Machine,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.04.100,,Parking Spaces,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.06.040,,Car Share Permit Required,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.08.110,,Preferential Parking,,$51.50,$12.50,$64.00,,,$64.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.270,,Disobey Posted Signs,,$61.00,$12.50,$73.50,,,$64.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.380,,Parking on Drive Apron/Parkway/Sidewalk,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.730,,Green Zone - 15 Minutes,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.740,,Yellow Load Zone 7am - 6pm Mon-Sat,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.760,,White Zone - Max of 3 Minutes,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.780,,Parking on Sand,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.790(a),,Angle Parking,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.790(b),,Head in Parking,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.820,,Block Passage of Vehicle In Alley,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.830,,Parking Prohibited in Specified Places,,$51.50,$12.50,$64.00,,,$64.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.840,,Overtime Parking,,$51.50,$12.50,$64.00,,,$64.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.845,,Street Sweeping,,$51.50,$12.50,$64.00,,,$64.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.850,,30 Minute Parking Between 3-5 am,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.860,,Oversize Vehicles - 9pm - 6am ,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.870,,Oversize Commercial Vehicle in Residential Area,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.880,,Parking of Trailers,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.890,,Vehicle Parked for Advertising,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.910,,Wash Car - Street Alley,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.920,,Storing/Servicing/Rebuilding - Public Way,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.930,,Parking on Private Property w/o Permission,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.950,,Parking on Private Unpaved Lot,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.1000,,Vehicle Parked on Street for Sale,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.1010,,Unattended Vehicle - Keys in Ignition,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.12.1050,,Parked on Front Lawn,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.16.120,,Operating a Parking Meter,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.16.240,,O/T Meter Parking - Past Time Limits,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.16.241,,O/T Lot Parking - Past Time Limit,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.16.250,,Expired Meter,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,3.16.260,,Parking Beyond Meter Space,,$40.50,$12.50,$53.00,,,$53.00,Santa Monica Municipal Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,5200,,Failure to Display Both Plates,,$25.00,$0.00,$25.00,,,$25.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,5201,,Positioning of Plates,,$25.00,$0.00,$25.00,,,$25.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,5204,,No Current License Plate Tab,,$25.00,$0.00,$25.00,,,$25.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,21113A,,Illegally Parked on State Property,,$25.50,$12.50,$38.00,,,$25.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,21211B,,Parked in Bike Lane,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500a,,Parked in Any Intersection,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500b,,Parked in Any Crosswalk,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500c,,Parked in Any Safety Zone,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500d,,Parked Within 15 feet of Fire Station,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500e,,Parked in Front of Private/Public Driveway,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500f,,Parked on Sidewalk (except electric carts),,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500g,,Parked near Excavation Causing Hazard,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500h,,Double Parking,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500i,,Parked in Bus Zone,,$291.50,$12.50,$304.00,,,$30.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500k,,Parked on Any Bridge,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500I,,Stopping/Blocking Disabled Access Ramp,,$291.50,$12.50,$304.00,,,$30.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22500.1,,Parked in Fire Lane,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22502,,Curb Parking ,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22502a,,"Parked Within 18"" of Curb",,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22507.8a,,Parked in Handicapped Space w/o ID,,$386.50,$12.50,$399.00,,,$30.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22507.8b,,Blocking Disabled parking ,,$386.50,$12.50,$399.00,,,$30.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22507.8c,,Parked on/in Handicapped Access Area,,$386.50,$12.50,$399.00,,,$30.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22509,,Parked on Hill w/o Securing Vehicle,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22514,,Parked within 15 Feet of Fire Hydrant,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22515a,,"Vehicle w.o Driver, Engine Running",,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22515b,,Setting Brake/Lock Wheels on Highway,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22516,,Vehicle Locked w/o Means to Escape,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22520,,Parked on Freeway - Non-Emergency,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22520.5a,,Vending on or Near Freeways,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22521,,Parked Less than 7.5 Feet from RR Track,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22522,,parked Less than 3 Feet from Sidewalk Ramp,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,"22523a,b",,Abandon Vehicle on Highway,,$114.50,$12.50,$127.00,,,$30.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22526a,,Gridlock - In Intersection,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,22526b,,Gridlock - During Turn,,$40.50,$12.50,$53.00,,,$53.00,California Vehicle Code Violations,
+Civil Penalty for Parking Violation and Late Payment,,,,Violation of Any Other Law Regulating the Parking or Standing of Vehicles,,$40.50,$12.50,$53.00,,,$53.00,Unlisted Provisions of the Law,
+False Alarm Fine,,,,Police - Second and third responses within the same fiscal year,,,,$164.86,each,,,,
+False Alarm Fine,,,,Fourth and subsequent responses within the same fiscal year,,,,$247.28,each,,,,
+False Alarm Fine,,,,Fire* - Third and subsequent responses at the same location within the same fiscal year,,,,$526.28,each,,,* This fine is established for purposes of recovering costs associated with resources and services provided by the Santa Monica Fire Department in connection with responses to excessive false fire alarms.,
+Library Fine,,,,"Overdue Adult Book, CD, Audio Book, Periodical  ",,,,$0.25,,,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,"Overdue Children's Book, CD, Audio Book, Periodical ",,,,$0.15,,,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,Overdue New Adult Book ,,,,$0.50,,,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,Overdue Adult or Children's Video or DVD ,,,,$1.00,,,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,Overdue Interlibrary Loan Material,,,,$1.00,,,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,Replacement of Damaged or Lost Item,,,,$7.50,,Plus cost of item,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,Processing of Damaged Item,,,,$7.50,,,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,Collection Agency Referral Fee,,,,$10.00,,,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,Maximum Late Fine for Adult Materials,,,,$10.00,,,,"Fines to be assessed per item, per day, holidays included.",
+Library Fine,,,,Maximum Late Fine for Children's Books,,,,$5.00,,,,"Fines to be assessed per item, per day, holidays included.",

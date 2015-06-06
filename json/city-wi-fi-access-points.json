@@ -1,0 +1,618 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "j485-ymdf",
+      "name" : "City Wi-Fi Access Points",
+      "attribution" : "Information Systems Department",
+      "attributionLink" : "http://www.smgov.net/isd",
+      "averageRating" : 0,
+      "category" : "Public Services",
+      "createdAt" : 1403016310,
+      "description" : "City Wi-Fi is the City of Santa Monica's wireless internet network, free and open to the public.",
+      "displayType" : "table",
+      "downloadCount" : 27,
+      "indexUpdatedAt" : 1418673287,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9633444,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1418673210,
+      "publicationGroup" : 1619417,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1418673186,
+      "rowsUpdatedBy" : "uq7k-zpt9",
+      "tableId" : 1979928,
+      "totalTimesRated" : 0,
+      "viewCount" : 297,
+      "viewLastModified" : 1418673210,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 179897637,
+        "name" : "approximate address",
+        "dataTypeName" : "text",
+        "fieldName" : "address_approximate",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20311098,
+        "width" : 328,
+        "cachedContents" : {
+          "non_null" : 136,
+          "smallest" : "101 WILSHIRE BLVD",
+          "null" : 3,
+          "largest" : "OCEAN AVE & SANTA MONICA BLVD",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1401 OLYMPIC BLVD"
+          }, {
+            "count" : 19,
+            "item" : "1804 14TH ST"
+          }, {
+            "count" : 18,
+            "item" : "1631 COLORADO AVE"
+          }, {
+            "count" : 17,
+            "item" : "1674 17TH ST"
+          }, {
+            "count" : 16,
+            "item" : "2501 COLORADO AVE"
+          }, {
+            "count" : 15,
+            "item" : "1601 CLOVERFIELD BLVD"
+          }, {
+            "count" : 14,
+            "item" : "2600 COLORADO BLVD"
+          }, {
+            "count" : 13,
+            "item" : "1650 26TH ST"
+          }, {
+            "count" : 12,
+            "item" : "2425 OLYMPIC BLVD"
+          }, {
+            "count" : 11,
+            "item" : "2800 OLYMPIC BLVD"
+          }, {
+            "count" : 10,
+            "item" : "2500 MICHIGAN AVE"
+          }, {
+            "count" : 9,
+            "item" : "1802 CLOVERFIELD BLVD"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 179897638,
+        "name" : "intersection",
+        "dataTypeName" : "text",
+        "fieldName" : "intersection",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20311099,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 139,
+          "smallest" : "11th St & Broadway",
+          "null" : 0,
+          "largest" : "Yale St & Wilshire Blvd",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Yale St & Santa Monica Blvd"
+          }, {
+            "count" : 19,
+            "item" : "Berkeley St & Santa Monica Blvd"
+          }, {
+            "count" : 18,
+            "item" : "Memorial Park"
+          }, {
+            "count" : 17,
+            "item" : "14th St & Olympic Blvd"
+          }, {
+            "count" : 16,
+            "item" : "14th St & Michigan Ave"
+          }, {
+            "count" : 15,
+            "item" : "17th St & Colorado Ave"
+          }, {
+            "count" : 14,
+            "item" : "17th St & Olympic Blvd"
+          }, {
+            "count" : 13,
+            "item" : "Cloverfield Blvd & Colorado Ave"
+          }, {
+            "count" : 12,
+            "item" : "Olympic Blvd & Cloverfield Blvd"
+          }, {
+            "count" : 11,
+            "item" : "26th St & Colorado Ave"
+          }, {
+            "count" : 10,
+            "item" : "26th St & Pennsylvania"
+          }, {
+            "count" : 9,
+            "item" : "26th St & Olympic Blvd"
+          }, {
+            "count" : 8,
+            "item" : "Olympic Blvd & Stewart St"
+          }, {
+            "count" : 7,
+            "item" : "Dead end of Michigan St"
+          }, {
+            "count" : 6,
+            "item" : "Stewart Park / City Yards"
+          }, {
+            "count" : 5,
+            "item" : "Cloverfield Blvd & Michigan St"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 179897639,
+        "name" : "location description",
+        "dataTypeName" : "text",
+        "fieldName" : "location_desc",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20311100,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 139,
+          "smallest" : "East side of pedestrian crossing",
+          "null" : 0,
+          "largest" : "Utility pole north of Weather Field No. 1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "NW traffic signal on Yale & Santa Monica"
+          }, {
+            "count" : 19,
+            "item" : "SE traffic signal on Berkeley & Santa Monica"
+          }, {
+            "count" : 18,
+            "item" : "On utility wire at SE corner of 16th St & Olympic blvd"
+          }, {
+            "count" : 17,
+            "item" : "NE traffic signal on 14th & Olympic"
+          }, {
+            "count" : 16,
+            "item" : "SE traffic signal mast on 14th & Michigan"
+          }, {
+            "count" : 15,
+            "item" : "NW traffic signal on 17th & Colorado"
+          }, {
+            "count" : 14,
+            "item" : "NW traffic signal on 17th & Olympic"
+          }, {
+            "count" : 13,
+            "item" : "NW traffic signal on Colorado & Cloverfield"
+          }, {
+            "count" : 12,
+            "item" : "NE traffic signal on Cloverfield & Olympic"
+          }, {
+            "count" : 11,
+            "item" : "SE traffic signal on 26th & Colorado"
+          }, {
+            "count" : 10,
+            "item" : "NE traffic signal on 26th & Pennsylvania"
+          }, {
+            "count" : 9,
+            "item" : "NW traffic signal on 26th & Olympic"
+          }, {
+            "count" : 8,
+            "item" : "SW traffic signal on Stewart St & Olympic"
+          }, {
+            "count" : 7,
+            "item" : "On utility wire at the entrance of Bergamot Station Arts Center"
+          }, {
+            "count" : 6,
+            "item" : "On top of City Yards building between Stewart Park and Bergamot Station"
+          }, {
+            "count" : 5,
+            "item" : "SW traffic signal on Michigan & Cloverfield"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 179897640,
+        "name" : "status",
+        "dataTypeName" : "text",
+        "fieldName" : "status",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20311101,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 139,
+          "smallest" : "Existing",
+          "null" : 0,
+          "largest" : "Proposed",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Existing"
+          }, {
+            "count" : 19,
+            "item" : "Proposed"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 179897641,
+        "name" : "location",
+        "dataTypeName" : "location",
+        "fieldName" : "location",
+        "position" : 6,
+        "renderTypeName" : "location",
+        "tableColumnId" : 20311102,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 139,
+          "smallest" : {
+            "longitude" : "-118.48386424",
+            "latitude" : "34.00214264"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.47029003",
+            "latitude" : "34.02530544"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.47166996",
+              "latitude" : "34.03558581"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.4694248",
+              "latitude" : "34.03708092"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.47863268",
+              "latitude" : "34.02102816"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.48066375",
+              "latitude" : "34.01988636"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.47904843",
+              "latitude" : "34.01827954"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.47990297",
+              "latitude" : "34.02369491"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.47794347",
+              "latitude" : "34.02201749"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.47400755",
+              "latitude" : "34.02842811"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.47233881",
+              "latitude" : "34.02734016"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.4709836",
+              "latitude" : "34.03068389"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.47044611",
+              "latitude" : "34.02977575"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.47004367",
+              "latitude" : "34.0281345"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.46539113",
+              "latitude" : "34.02947834"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.46780636",
+              "latitude" : "34.02759952"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.46729071",
+              "latitude" : "34.02765456"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.47029003",
+              "latitude" : "34.02530544"
+            }
+          } ]
+        },
+        "format" : {
+          "view" : "address_coords",
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Freshness" : {
+            "Update Frequency" : "As needed",
+            "Scope" : "All existing and proposed access points"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "h65a-84nd",
+        "displayName" : "Justin Mank",
+        "roleName" : "administrator",
+        "screenName" : "Justin Mank",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "h65a-84nd",
+        "displayName" : "Justin Mank",
+        "roleName" : "administrator",
+        "screenName" : "Justin Mank",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "wifi", "gis", "internet" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "852A5F92-D983-4896-B813-9C4A27BB1B2D", 1, 1403016313, "880553", 1403016313, "880553", "{\n}", "2612 MAIN ST", "Ocean Park Blvd & Main St", "SW traffic signal on Ocean Park Blvd & Main St", "Existing", [ null, "34.00214264", "-118.48386424", null, false ] ]
+, [ 2, "DD519081-E1DC-49DD-85F8-D71DF1CDECA7", 2, 1403016313, "880553", 1403016313, "880553", "{\n}", "2626 CLOVERFIELD BLVD", "OCEAN PARK BLVD & CLOVERFIELD BLVD", "SE traffic signal on Ocean Park & Cloverfield Blvd", "Existing", [ null, "34.01591668", "-118.46072362", null, false ] ]
+, [ 3, "B8A88949-5A6E-4C8E-BFC0-540918708E33", 3, 1403016313, "880553", 1403016313, "880553", "{\n}", "2470 OCEAN PARK BLVD", "OCEAN PARK BLVD & 25TH ST", "SW traffic signal on Ocean Park Blvd & 25th St", "Existing", [ null, "34.01717058", "-118.45857115", null, false ] ]
+, [ 4, "19031635-4B0B-4C71-AB94-3DFF06C681CF", 4, 1403016313, "880553", 1403016313, "880553", "{\n}", "2717 OCEAN PARK BLVD", "Ocean Park Blvd & 28th St", "NW traffic signal on Ocean Park Blvd & 28th St", "Existing", [ null, "34.01885200", "-118.45605677", null, false ] ]
+, [ 5, "C5BB9B0E-4337-478E-913A-26E7FA581CF3", 5, 1403016313, "880553", 1403016313, "880553", "{\n}", "3200 OCEAN PARK BLVD", "OCEAN PARK BLVD & 31ST ST", "SE traffic signal on Ocean Park Blvd & 31st St", "Existing", [ null, "34.02081850", "-118.45222622", null, false ] ]
+, [ 6, "4E75A77E-41C0-4248-8988-23DF4AB868AB", 6, 1403016313, "880553", 1403016313, "880553", "{\n}", "1047 OCEAN PARK BLVD", "Ocean Park Blvd & 11th St", "NW traffic signal on Ocean Park Blvd & 11th St", "Existing", [ null, "34.00840448", "-118.47392369", null, false ] ]
+, [ 7, "83F047F1-5BC3-481C-A98A-118FA50FF848", 7, 1403016313, "880553", 1403016313, "880553", "{\n}", "2601 14TH ST", "Ocean Park Blvd & 14th St", "SE traffic signal on Ocean Park Blvd & 14th St", "Existing", [ null, "34.01045492", "-118.47009312", null, false ] ]
+, [ 8, "8EDF0EB8-C868-4AD7-A1AE-FB589F4AD3F0", 8, 1403016313, "880553", 1403016313, "880553", "{\n}", "1818 OCEAN PARK BLVD", "Ocean Park Blvd & 20th St", "SE traffic signal on Ocean Park Blvd & 20th St", "Existing", [ null, "34.01374368", "-118.46449656", null, false ] ]
+, [ 9, "AE056E71-606B-42ED-B989-0B637B650298", 9, 1403016313, "880553", 1403016313, "880553", "{\n}", "1700 OCEAN PARK BLVD", "Ocean Park Blvd & 17th St", "SE traffic signal on Ocean Park Blvd & 17th St", "Existing", [ null, "34.01247477", "-118.46674874", null, false ] ]
+, [ 10, "0AD7BEEB-7572-4A44-BDD6-21126CD0DA04", 10, 1403016313, "880553", 1403016313, "880553", "{\n}", "2625 NEILSON WAY", "Ocean Park Blvd & Neilson Way", "SE traffic signal on Ocean Park Blvd & Neilson Way", "Existing", [ null, "34.00189640", "-118.48427857", null, false ] ]
+, [ 11, "322BC61A-8375-4760-B562-EC0C3ECC2142", 11, 1403016313, "880553", 1403016313, "880553", "{\n}", "2101 OCEAN PARK BLVD", "OCEAN PARK BLVD & 21ST ST", "NE traffic signal on Ocean Park Blvd & 21st St", "Existing", [ null, "34.01441728", "-118.46361781", null, false ] ]
+, [ 12, "21B05C83-804D-4F9E-B3E8-BE16C1CF1967", 12, 1403016313, "880553", 1403016313, "880553", "{\n}", "2225 OCEAN PARK BLVD", "Ocean Park Blvd & 23rd St", "NW traffic signal on Ocean Park Blvd & 23rd St", "Existing", [ null, "34.01539195", "-118.46190539", null, false ] ]
+, [ 13, "4F5F6B31-265C-47C0-B45E-8AA3784185E7", 13, 1403016313, "880553", 1403016313, "880553", "{\n}", "2526 6TH ST", "OCEAN PARK BLVD & 6TH ST", "North side of pedestrian crossing on Ocean Park Blvd & 6th St", "Existing", [ null, "34.00498359", "-118.47976869", null, false ] ]
+, [ 14, "7C5C6199-C47B-4D09-9A66-2377AA3CE84D", 14, 1403016313, "880553", 1403016313, "880553", "{\n}", "2437 MAIN ST", "2437 Main St", "East side of pedestrian crossing signal", "Existing", [ null, "34.00347617", "-118.48491695", null, false ] ]
+, [ 15, "AC60D7DA-2940-43C9-A8D4-9DAAB93D39B5", 15, 1403016313, "880553", 1403016313, "880553", "{\n}", "2901 NEILSON WAY", "2901 Neilson Way", "NE traffic signal on Neilson & Ashland", "Existing", [ null, "33.99934497", "-118.48180218", null, false ] ]
+, [ 16, "C9F097D5-CF40-4CCF-9DBD-1C06328D3688", 16, 1403016313, "880553", 1403016313, "880553", "{\n}", "2675 NEILSON WAY", "Neilson Way & Hill St", "NE traffic signal on Neilson Way & Hill St", "Existing", [ null, "34.00067966", "-118.48314167", null, false ] ]
+, [ 17, "69B87DA3-8984-4BAB-BF4B-12314711B063", 17, 1403016313, "880553", 1403016313, "880553", "{\n}", "3358 BARNARD WAY", "Neilson Way & Marine St", "SW traffic signal on Neilson Way & Marine St", "Existing", [ null, "33.99744464", "-118.48014194", null, false ] ]
+, [ 18, "78FC6460-4B88-4E78-BD59-BB6331F186E2", 18, 1403016313, "880553", 1403016313, "880553", "{\n}", "NEILSON WAY & STRAND ST", "Neilson Way & Strand St", "NE traffic signal on Neilson Way & Strand St", "Existing", [ null, "34.00447984", "-118.48714738", null, false ] ]
+, [ 19, "5BA347E5-5115-43D0-8263-DC9B669285C6", 19, 1403016313, "880553", 1403016313, "880553", "{\n}", "2900 MAIN ST", "Main St & Ashland Ave", "SW traffic signal on Main St & Ashland Ave", "Existing", [ null, "33.99943031", "-118.48114435", null, false ] ]
+, [ 20, "5ED750A2-C7F0-459C-BF29-70B6E246B75A", 20, 1403016313, "880553", 1403016313, "880553", "{\n}", "2104 MAIN ST", "Main St & Bicknell Ave", "SW traffic signal on Main St & Bicknell Ave", "Existing", [ null, "34.00624263", "-118.48812575", null, false ] ]
+, [ 21, "2196B3E2-3161-4D0E-A04B-93AC24603AA0", 21, 1403016313, "880553", 1403016313, "880553", "{\n}", "2702 MAIN ST", "Main St & Hill St", "SW traffic signal on Main St & Hill St", "Existing", [ null, "34.00083048", "-118.48254479", null, false ] ]
+, [ 22, "4D8E81C1-53B6-427B-9284-DB9D119C4286", 22, 1403016313, "880553", 1403016313, "880553", "{\n}", "3110 MAIN ST", "MAIN ST & MARINE ST", "SW traffic signal on Main St & Marine St", "Existing", [ null, "33.99787430", "-118.47959486", null, false ] ]
+, [ 23, "F4C74F87-DC49-4D96-BB7C-F97E154F2F8C", 23, 1403016313, "880553", 1403016313, "880553", "{\n}", "2001 OCEAN AVE", "Neilson Way & Bay St", "SW traffic signal on Neilson Way & Bay St", "Existing", [ null, "34.00660158", "-118.48953322", null, false ] ]
+, [ 24, "9124377D-44E2-4C63-BC3F-E7C44D81167D", 24, 1403016313, "880553", 1403016313, "880553", "{\n}", "NEILSON WAY & HOLLISTER AVE", "Neilson Way & Hollister Ave", "Neilson Way & Hollister Ave", "Proposed", [ null, "34.00393424", "-118.48651722", null, false ] ]
+, [ 25, "88698D4F-A06E-4F4E-A4C0-91639AB8BDEF", 25, 1403016313, "880553", 1403016313, "880553", "{\n}", "NEILSON WAY & PACIFIC ST", "Neilson Way & Pacific St", "NE traffic signal on Neilson Way & Pacific St", "Existing", [ null, "34.00533825", "-118.48788860", null, false ] ]
+, [ 26, "CC8D3833-AC50-4B08-A61C-F21CC500102C", 26, 1403016313, "880553", 1403016313, "880553", "{\n}", "1131 3RD ST PROMENADE", "ARIZONA AVE & 3RD ST", "SE traffic signal on Arizona Ave & 3rd St Promenade", "Existing", [ null, "34.01701395", "-118.49749939", null, false ] ]
+, [ 27, "6F44D2E4-FE29-4FD0-AC11-37085E369060", 27, 1403016313, "880553", 1403016313, "880553", "{\n}", "1324 5TH ST", "ARIZONA AVE & 5TH ST", "SW traffic signal on Arizona Ave & 5th St", "Existing", [ null, "34.01837617", "-118.49574064", null, false ] ]
+, [ 28, "500EA35B-0E73-4A99-BA2D-EAEB91A88BBC", 28, 1403016313, "880553", 1403016313, "880553", "{\n}", "1303 LINCOLN BLVD", "ARIZONA AVE & LINCOLN BLVD", "SE traffic signal on Arizona Ave & Lincoln Bldv", "Existing", [ null, "34.02087463", "-118.49274514", null, false ] ]
+, [ 29, "0BBF40D3-2486-456A-96E9-6D8F46599D25", 29, 1403016313, "880553", 1403016313, "880553", "{\n}", "1310 11TH ST", "ARIZONA AVE & 11TH ST", "SW traffic signal on Arizona Ave & 11th St", "Existing", [ null, "34.02298200", "-118.49007065", null, false ] ]
+, [ 30, "BDBC0743-03DD-4F77-B762-F2B4B2A940ED", 30, 1403016313, "880553", 1403016313, "880553", "{\n}", "1931 WILSHIRE BLVD", "20TH ST & WILSHIRE BLVD", "NW traffic signal on Wilshire Blvd & 20th St", "Existing", [ null, "34.03138794", "-118.48335354", null, false ] ]
+, [ 31, "E12F90F8-3A5E-455F-8260-FC12A861B9DD", 31, 1403016313, "880553", 1403016313, "880553", "{\n}", "1920 SANTA MONICA BLVD", "20TH ST & SANTA MONICA BLVD", "NW traffic signal on Santa Monica Blvd & 20th St", "Existing", [ null, "34.02866452", "-118.48019995", null, false ] ]
+, [ 32, "5A6FD538-6602-4BD1-9A33-E1737E8537A9", 32, 1403016313, "880553", 1403016313, "880553", "{\n}", "1925 BROADWAY", "20TH ST & BROADWAY", "NW traffic signal on Broadway & 20th St", "Existing", [ null, "34.02730463", "-118.47858964", null, false ] ]
+, [ 33, "96A8FB64-D4F2-49AA-9DC0-8572C7948DE2", 33, 1403016313, "880553", 1403016313, "880553", "{\n}", "1556 20TH ST", "20TH ST & COLORADO AVE", "NW traffic signal on Colorado Ave & 20th St", "Existing", [ null, "34.02598903", "-118.47707044", null, false ] ]
+, [ 34, "27B8F2DA-B63F-42EB-9BBF-7F8E2B59AE79", 34, 1403016313, "880553", 1403016313, "880553", "{\n}", "1674 20TH ST", "20TH ST & OLYMPIC BLVD", "NW traffic signal on Olympic Blvd & 20th St", "Existing", [ null, "34.02430605", "-118.47512630", null, false ] ]
+, [ 35, "05BA0F45-579A-4CF5-BB6D-0A586A8BD764", 35, 1403016313, "880553", 1403016313, "880553", "{\n}", null, "I-10 Eastbound Offramp & 20th St", "East traffic signal at end of I-10 offramp", "Existing", [ null, "34.02308684", "-118.47330844", null, false ] ]
+, [ 36, "97CDF8EF-8A80-4921-A4F1-2BE83B6EABE9", 36, 1403016313, "880553", 1403016313, "880553", "{\n}", "1848 20TH ST", "20TH ST & DELAWARE AVE", "NW traffic signal on Delaware Ave & 20th St", "Existing", [ null, "34.02188174", "-118.47228860", null, false ] ]
+, [ 37, "9E8C08CA-4EA1-458D-AAED-1B620168FE18", 37, 1403016313, "880553", 1403016313, "880553", "{\n}", "2045 20TH ST", "20TH ST & PICO BLVD", "NE traffic signal on Pico Blvd & 20th St", "Existing", [ null, "34.01965194", "-118.46944237", null, false ] ]
+, [ 38, "BEDB1363-93E7-430F-A696-EE96A4D93459", 38, 1403016313, "880553", 1403016313, "880553", "{\n}", "1855 MAIN ST", "Main St & Pico Blvd", "NE traffic signal mast arm on Main St & Pico Blvd", "Existing", [ null, "34.00814110", "-118.48968750", null, false ] ]
+, [ 39, "B347B5BB-AFBB-4664-BEBB-3812C96909A5", 39, 1403016313, "880553", 1403016313, "880553", "{\n}", "1440 PICO BLVD", "Ocean Ave & Pico Blvd", "SE traffic signal on Pico & Neilson", "Existing", [ null, "34.00755702", "-118.49007784", null, false ] ]
+, [ 40, "4B7E4AD9-FF23-4DA1-94B1-A2ED98897DD4", 40, 1403016313, "880553", 1403016313, "880553", "{\n}", "NEILSON WAY & BICKNELL AVE", "Neilson Way & Bicknell Ave", "NW traffic signal on Neilson & Bicknell", "Existing", [ null, "34.00595002", "-118.48888242", null, false ] ]
+, [ 41, "A960099E-6C92-448B-8346-6A62C95F123B", 41, 1403016313, "880553", 1403016313, "880553", "{\n}", "3320 PICO BLVD", "4th St & Pico Blvd", "SW traffic signal on 4th & Pico", "Existing", [ null, "34.00946367", "-118.48726877", null, false ] ]
+, [ 42, "BC6E3360-EDF6-402F-A98F-BCC3CDA5D97E", 42, 1403016313, "880553", 1403016313, "880553", "{\n}", "601 PICO BLVD", "6th St & Pico Blvd", "North side of pedestrian crossing on 6th & Pico", "Existing", [ null, "34.01116931", "-118.48522238", null, false ] ]
+, [ 43, "3B0D884B-EB77-4BFA-BF71-A5059242DC8C", 43, 1403016313, "880553", 1403016313, "880553", "{\n}", "1912 LINCOLN BLVD", "Lincoln Blvd & Pico Blvd", "SW traffic signal mast on Lincoln & Pico", "Existing", [ null, "34.01213603", "-118.48296508", null, false ] ]
+, [ 44, "33DDD4EA-2251-442B-AB64-D1D04796B3DE", 44, 1403016313, "880553", 1403016313, "880553", "{\n}", "11TH ST & PICO BLVD", "11th St & Pico Blvd", "NW traffic signal mast arm on 11th & Pico", "Existing", [ null, "34.01407071", "-118.47974728", null, false ] ]
+, [ 45, "E6C927E1-9FCE-46F6-B594-79AD03933273", 45, 1403016313, "880553", 1403016313, "880553", "{\n}", "14TH ST & PICO BLVD", "14th St & Pico Blvd", "NE traffic signal on 14th & Pico", "Existing", [ null, "34.01600802", "-118.47607122", null, false ] ]
+, [ 46, "6BDA1C50-AE47-4EAC-9533-B59752ADD6E2", 46, 1403016313, "880553", 1403016313, "880553", "{\n}", "16TH ST & PICO BLVD", "16th St & Pico Blvd", "SE traffic signal on 16th & Pico", "Existing", [ null, "34.01693052", "-118.47403694", null, false ] ]
+, [ 47, "462E0088-91B3-41A2-8DA5-F01CC7EAA321", 47, 1403016313, "880553", 1403016313, "880553", "{\n}", "17TH ST & PICO BLVD", "17th St & Pico Blvd", "SE traffic signal on 17th & Pico", "Existing", [ null, "34.01770823", "-118.47253969", null, false ] ]
+, [ 48, "36F645CF-36F8-41A0-9992-7206127ED1A4", 48, 1403016313, "880553", 1403016313, "880553", "{\n}", "18TH CT & PICO BLVD", "18th Ct & Pico Blvd", "North side of pedestrian crossing on 18th & Pico", "Existing", [ null, "34.01869902", "-118.47116298", null, false ] ]
+, [ 49, "4DEA9A1D-5F77-4B79-A772-5643EDFCC896", 49, 1403016313, "880553", 1403016313, "880553", "{\n}", "2200 VIRGINIA AVE", "Virginia Avenue Park", "North side of pedestrian crossing on 23rd & Pico", "Existing", [ null, "34.02104740", "-118.46662866", null, false ] ]
+, [ 50, "DCE4A96C-2FEA-4B67-95BC-E7CD009A2F5E", 50, 1403016313, "880553", 1403016313, "880553", "{\n}", "2241 VIRGINIA AVE", "Virginia Ave & Cloverfield Blvd", "NW traffic signal on Virginia & Cloverfield", "Existing", [ null, "34.02307004", "-118.46769163", null, false ] ]
+, [ 51, "67E70EE2-7D45-4F72-9071-1269B58664AD", 51, 1403016313, "880553", 1403016313, "880553", "{\n}", "CLOVERFIELD BLVD & PICO BLVD", "Cloverfield Blvd & Pico Blvd", "SW traffic signal on Cloverfield & Pico", "Existing", [ null, "34.02139227", "-118.46559793", null, false ] ]
+, [ 52, "4B10044A-5E50-4D26-83C4-11BF2B0ACAE7", 52, 1403016313, "880553", 1403016313, "880553", "{\n}", "2620 PICO BLVD", "26th St & Pico Blvd", "SE traffic signal on 26th & Pico", "Existing", [ null, "34.02319825", "-118.46237908", null, false ] ]
+, [ 53, "05809723-0159-44AD-B084-DEAC1CC4BD6E", 53, 1403016313, "880553", 1403016313, "880553", "{\n}", "2727 PICO BLVD", "Stewart St/28th St & Pico Blvd", "NW traffic signal on Stewart & Pico", "Existing", [ null, "34.02426196", "-118.46071577", null, false ] ]
+, [ 54, "B8950256-2423-4996-BD7A-1ABECF3E14A3", 54, 1403016313, "880553", 1403016313, "880553", "{\n}", "3305 PICO BLVD", "33rd St & Pico Blvd", "NW traffic signal nearest to Urban Ave", "Existing", [ null, "34.02693273", "-118.45545419", null, false ] ]
+, [ 55, "6BBB8DA0-3F2B-42CE-9C21-03C859EAA966", 55, 1403016313, "880553", 1403016313, "880553", "{\n}", "3330 PICO BLVD", "34th St & PIco Blvd", "SW traffic signal on 34th & Pico", "Existing", [ null, "34.02727735", "-118.45420764", null, false ] ]
+, [ 56, "625C96C9-57D4-40C3-9D1B-9DAFFA1BC61F", 56, 1403016313, "880553", 1403016313, "880553", "{\n}", "2627 LINCOLN BLVD", "Lincoln Blvd & Ocean Park Blvd", "SE traffic signal on Lincoln & Ocean Park", "Existing", [ null, "34.00697830", "-118.47615342", null, false ] ]
+, [ 57, "852BA6B4-5AA4-4362-B4A8-3244A6DDE181", 57, 1403016313, "880553", 1403016313, "880553", "{\n}", "3201 AIRPORT AVE", "Airport Park", "On top of restroom facilities", "Existing", [ null, "34.01628700", "-118.44595300", null, false ] ]
+, [ 58, "42B90D9A-202D-407D-94AA-5942E99DD09C", 58, 1403016313, "880553", 1403016313, "880553", "{\n}", "2600 OCEAN PARK BLVD", "Clover Park", "On top of Public Landscape Division building", "Existing", [ null, "34.01711300", "-118.45700400", null, false ] ]
+, [ 59, "95E185A0-778B-443F-B879-D119A3025C84", 59, 1403016313, "880553", 1403016313, "880553", "{\n}", "OCEAN AVE & MOOMAT AHIKO WAY", "Ocean Ave & Moomat Ahiko Way", "SW traffic signal on Ocean & Moomat Ahiko", "Existing", [ null, "34.01055634", "-118.49408035", null, false ] ]
+, [ 60, "374480FE-094D-4FEC-A750-88B72F91031F", 60, 1403016313, "880553", 1403016313, "880553", "{\n}", "OCEAN AVE & COLORADO AVE", "Ocean Ave & Santa Monica Pier", "NW traffic signal on Ocean & Santa Monica Pier", "Existing", [ null, "34.01141909", "-118.49507523", null, false ] ]
+, [ 61, "706CA3DB-36E1-40EF-8A3E-04BE17E208FE", 61, 1403016313, "880553", 1403016313, "880553", "{\n}", "1615 OCEAN AVE", "Tongva Park", "Utility pole north of Weather Field No. 1", "Existing", [ null, "34.01129600", "-118.49328300", null, false ] ]
+, [ 62, "DB05DA40-2A33-490F-9FD2-CE11C05B0328", 62, 1403016313, "880553", 1403016313, "880553", "{\n}", "200 SANTA MONICA PIER", "Santa Monica Pier", "Lamp post east of Bubba Gump", "Existing", [ null, "34.01011000", "-118.49660000", null, false ] ]
+, [ 63, "545040C4-B455-4098-AD33-ED7897653A08", 63, 1403016313, "880553", 1403016313, "880553", "{\n}", "200 SANTA MONICA PIER", "Santa Monica Pier", "Lamp post on the south side of pier adjacent to the rollercoaster", "Existing", [ null, "34.00883200", "-118.49670500", null, false ] ]
+, [ 64, "2A339239-876A-433D-BE78-5463D5A6F0C1", 64, 1403016313, "880553", 1403016313, "880553", "{\n}", null, "Beach Maintenance building", "On NW corner of roof", "Existing", [ null, "34.01105966", "-118.49642271", null, false ] ]
+, [ 65, "14EFE980-3487-4AFA-9CBA-CF9D7CC2A4BD", 65, 1403016313, "880553", 1403016313, "880553", "{\n}", null, "Lot #2 North", "On lamp post south of parking lot entrance", "Existing", [ null, "34.01261788", "-118.49781151", null, false ] ]
+, [ 66, "DC6FFB5E-C599-4235-BFDB-29B39542E368", 66, 1403016313, "880553", 1403016313, "880553", "{\n}", "1500 BLOCK OCEAN AVE", "Ocean Ave & Broadway", "SW traffic signal on Ocean & Broadway", "Existing", [ null, "34.01260472", "-118.49651199", null, false ] ]
+, [ 67, "16C9E2D2-4EE0-49CF-8604-5ECEAC90E21E", 67, 1403016313, "880553", 1403016313, "880553", "{\n}", "OCEAN AVE & SANTA MONICA BLVD", "Ocean Ave & Santa Monica Blvd", "SW traffic signal on Ocean & Santa Monica", "Existing", [ null, "34.01391424", "-118.49803683", null, false ] ]
+, [ 68, "8CF56234-A384-4023-A9D3-F1EC01EB5A9B", 68, 1403016313, "880553", 1403016313, "880553", "{\n}", "1299 OCEAN AVE", "Ocean Ave & Arizona Ave", "NE traffic signal on Ocean & Arizona", "Existing", [ null, "34.01556500", "-118.49959840", null, false ] ]
+, [ 69, "D46C3CA1-35C3-400D-B7C9-5AF6B55DD644", 69, 1403016313, "880553", 1403016313, "880553", "{\n}", "101 WILSHIRE BLVD", "Ocean Ave & Wilshire Blvd", "NE traffic signal on Ocean & Wilshire", "Existing", [ null, "34.01696414", "-118.50122823", null, false ] ]
+, [ 70, "62AFDA72-E715-4581-A87B-8AF716DC5FBC", 70, 1403016313, "880553", 1403016313, "880553", "{\n}", "OCEAN AVE & CALIFORNIA AVE", "Ocean Ave & California Ave", "SE traffic signal on Ocean & California", "Existing", [ null, "34.01820170", "-118.50259608", null, false ] ]
+, [ 71, "83CBB28E-F0F6-4523-B0BE-D4E7D0416811", 71, 1403016313, "880553", 1403016313, "880553", "{\n}", "900 BLOCK OCEAN AVE", "Ocean Ave & Washington Ave", "Lamp post on west side of Ocean Ave", "Existing", [ null, "34.01971688", "-118.50482390", null, false ] ]
+, [ 72, "A4048AB2-7C36-4AFB-9ED5-D7910207AE57", 72, 1403016313, "880553", 1403016313, "880553", "{\n}", "849 OCEAN AVE", "Ocean Ave & Idaho Ave", "Lamp post on NE corner of Ocean & Idaho", "Existing", [ null, "34.02100752", "-118.50594562", null, false ] ]
+, [ 73, "78BDF1AE-A129-457E-BA11-AD221BB2D33B", 73, 1403016313, "880553", 1403016313, "880553", "{\n}", "800 OCEAN AVE", "Ocean Ave & Montana Ave", "SW traffic signal on Ocean & Montana", "Existing", [ null, "34.02209954", "-118.50748894", null, false ] ]
+, [ 74, "C6443633-C6D9-47C9-9C8D-0DB3ACAAE384", 74, 1403016313, "880553", 1403016313, "880553", "{\n}", "617 OCEAN AVE", "Ocean Ave between Alta Ave & Palisades Ave", "Lamp post on east side of Ocean Ave between Alta and Palisades", "Existing", [ null, "34.02358793", "-118.50897506", null, false ] ]
+, [ 75, "765848BC-CEFC-48A1-B896-F5C739EC7720", 75, 1403016313, "880553", 1403016313, "880553", "{\n}", "515 OCEAN AVE", "Ocean Ave & Marguerita Ave", "Lamp post in front of Park Plaza building", "Existing", [ null, "34.02453784", "-118.51062415", null, false ] ]
+, [ 76, "A3324465-8208-460F-91B0-4B4B3790A2D9", 76, 1403016313, "880553", 1403016313, "880553", "{\n}", "300 BLOCK OCEAN AVE", "Ocean Ave & San Vicente Blvd", "Lamp post on west side of Ocean at crosswalk", "Existing", [ null, "34.02587318", "-118.51325811", null, false ] ]
+, [ 77, "0529737E-706A-4F1F-8027-47A603997CC2", 77, 1403016313, "880553", 1403016313, "880553", "{\n}", "101 WILSHIRE BLVD", "2nd St & Wilshire Blvd", "NW traffic signal on 2nd & Wilshire", "Existing", [ null, "34.01758159", "-118.50040610", null, false ] ]
+, [ 78, "15CA824F-4886-4B78-9D5F-821D796A9980", 78, 1403016313, "880553", 1403016313, "880553", "{\n}", "1201 3RD ST PROMENADE", "3rd St & Wilshire Blvd", "SE traffic signal on 3rd & Wilshire", "Existing", [ null, "34.01835111", "-118.49906020", null, false ] ]
+, [ 79, "1E66ED2C-3A2E-4D80-AF83-8D8F2232F199", 79, 1403016313, "880553", 1403016313, "880553", "{\n}", "335 WILSHIRE BLVD", "4th St & Wilshire Blvd", "NW traffic signal on 4th & Wilshire", "Existing", [ null, "34.01911700", "-118.49848281", null, false ] ]
+, [ 80, "C4F55726-9507-483A-B924-07CAE59D3BCA", 80, 1403016313, "880553", 1403016313, "880553", "{\n}", "631 WILSHIRE BLVD", "7th St & Wilshire Blvd", "NW traffic signal on 7th & Wilshire", "Existing", [ null, "34.02141164", "-118.49565456", null, false ] ]
+, [ 81, "136078D8-7F8C-4796-8FB4-93429BE20A04", 81, 1403016313, "880553", 1403016313, "880553", "{\n}", "1025 WILSHIRE BLVD", "11th St & Wilshire Blvd", "NW traffic signal on 11th & Wilshire", "Existing", [ null, "34.02446953", "-118.49189294", null, false ] ]
+, [ 82, "04197474-3DA6-4682-84DA-F1A223833EE1", 82, 1403016313, "880553", 1403016313, "880553", "{\n}", "1331 WILSHIRE BLVD", "14th St & Wilshire Blvd", "NW traffic signal on 14th & Wilshire", "Existing", [ null, "34.02676606", "-118.48905974", null, false ] ]
+, [ 83, "0AC61E9B-79D1-48AC-B7C1-45C523ABDA73", 83, 1403016313, "880553", 1403016313, "880553", "{\n}", "1629 WILSHIRE BLVD", "17th St & Wilshire Blvd", "NW traffic signal on 17th & Wilshire", "Existing", [ null, "34.02908494", "-118.48618874", null, false ] ]
+, [ 84, "3AE30F20-EC2F-492C-B266-FD3A0FF955AA", 84, 1403016313, "880553", 1403016313, "880553", "{\n}", "2301 WILSHIRE BLVD", "23rd St & Wilshire Blvd", "NE traffic signal mast on 23rd & Wilshire", "Existing", [ null, "34.03355113", "-118.48074926", null, false ] ]
+, [ 85, "DFC9B3F6-79AE-4C3D-90BD-0FC39AA67DD4", 85, 1403016313, "880553", 1403016313, "880553", "{\n}", "2439 WILSHIRE BLVD", "Douglas Park", "Lamp post in front of Douglas Park", "Existing", [ null, "34.03507859", "-118.47881037", null, false ] ]
+, [ 86, "D6877D66-D638-4015-851B-F7D17CE9D243", 86, 1403016313, "880553", 1403016313, "880553", "{\n}", "2525 WILSHIRE BLVD", "26th St & Wilshire Blvd", "NW traffic signal on 26th & Wilshire", "Existing", [ null, "34.03600715", "-118.47764692", null, false ] ]
+, [ 87, "95EE8783-45E9-4185-8A44-B46BDB5D0905", 87, 1403016313, "880553", 1403016313, "880553", "{\n}", "2839 WILSHIRE BLVD", "Yale St & Wilshire Blvd", "NW traffic signal on Yale & Wilshire", "Existing", [ null, "34.03829680", "-118.47482597", null, false ] ]
+, [ 88, "A5E2E5EB-83FE-46CD-94DE-6A1DD56C09D4", 88, 1403016313, "880553", 1403016313, "880553", "{\n}", "3021 WILSHIRE BLVD", "Berkeley St & Wilshire Blvd", "NW traffic signal mast on Berkeley & Wilshire", "Existing", [ null, "34.03971419", "-118.47296048", null, false ] ]
+, [ 89, "C50739F2-1007-4066-9495-17F51366ABF1", 89, 1403016313, "880553", 1403016313, "880553", "{\n}", "1333 4TH ST", "4th St between Arizona Ave & Santa Monica Blvd", "East side of pedestrian crossing", "Existing", [ null, "34.01713689", "-118.49587083", null, false ] ]
+, [ 90, "C2FB328A-2250-42BF-B4FB-B52508B09227", 90, 1403016313, "880553", 1403016313, "880553", "{\n}", "129 SANTA MONICA BLVD", "2nd St & Santa Monica Blvd", "NW traffic signal on 2nd & Santa Monica", "Existing", [ null, "34.01485536", "-118.49719881", null, false ] ]
+, [ 91, "806D49E3-45E4-4326-8F21-728D3D63850B", 91, 1403016313, "880553", 1403016313, "880553", "{\n}", "1401 3RD ST PROMENADE", "3rd St Promenade & Santa Monica Blvd", "SE traffic signal on 3rd & Santa Monica", "Existing", [ null, "34.01569368", "-118.49594528", null, false ] ]
+, [ 92, "B060CECF-2817-4E45-8EDE-48CE1824A18F", 92, 1403016313, "880553", 1403016313, "880553", "{\n}", "332 SANTA MONICA BLVD", "4th St & Santa Monica Blvd", "SW traffic signal on 4th & Santa Monica", "Existing", [ null, "34.01627423", "-118.49511466", null, false ] ]
+, [ 93, "ECE65EBB-846A-404B-BA0A-8CA959FEC329", 93, 1403016313, "880553", 1403016313, "880553", "{\n}", "1460 3RD ST PROMENADE", "3rd St Promenade & Broadway", "NW traffic signal on 3rd & Broadway", "Existing", [ null, "34.01431213", "-118.49466390", null, false ] ]
+, [ 94, "1EB79117-2951-4760-A805-891097D9D943", 94, 1403016313, "880553", 1403016313, "880553", "{\n}", "1501 4TH ST", "4th St & Broadway", "SE traffic signal on 4th & Broadway", "Existing", [ null, "34.01510918", "-118.49341048", null, false ] ]
+, [ 95, "AF75039C-7683-41FE-A390-3F6FE3B43A14", 95, 1403016313, "880553", 1403016313, "880553", "{\n}", "1699 4TH ST", "4th St & Olympic Dr", "NE traffic signal on 4th & Olympic Dr", "Existing", [ null, "34.01216734", "-118.49003116", null, false ] ]
+, [ 96, "E04FB4EA-9734-49A5-85D7-13D4DE3A7B70", 96, 1403016313, "880553", 1403016313, "880553", "{\n}", "2221 LINCOLN BLVD", "Lincoln Blvd & Pearl St", "NE traffic signal on Lincoln & Pearl", "Existing", [ null, "34.00963478", "-118.47955861", null, false ] ]
+, [ 97, "84902E02-6E2D-4DD5-A3EB-8E43A150CB65", 97, 1403016313, "880553", 1403016313, "880553", "{\n}", "2807 LINCOLN BLVD", "Lincoln Blvd & Ashland Ave", "NE traffic signal on Lincoln & Ashland", "Existing", [ null, "34.00502417", "-118.47357040", null, false ] ]
+, [ 98, "5B5BB76F-1137-4BD8-BBB5-69EBBC5250FE", 98, 1403016313, "880553", 1403016313, "880553", "{\n}", "3111 LINCOLN BLVD", "Lincoln Blvd & Marine St", "NE traffic signal on Lincoln & Marine", "Existing", [ null, "34.00326945", "-118.47116374", null, false ] ]
+, [ 99, "0DE7003D-A4EE-4BA3-A6DA-DA267220C3F5", 99, 1403016313, "880553", 1403016313, "880553", "{\n}", "1343 6TH ST", "7th St & Santa Monica Blvd", "NW traffic signal on 6th & Santa Monica", "Existing", [ null, "34.01868739", "-118.49248070", null, false ] ]
+, [ 100, "203F4D3D-85B6-4384-A644-351C1045894D", 100, 1403016313, "880553", 1403016313, "880553", "{\n}", "802 SANTA MONICA BLVD", "Lincoln Blvd & Santa Monica Blvd", "SE traffic signal on Lincoln & Santa Monica", "Existing", [ null, "34.01952016", "-118.49117363", null, false ] ]
+, [ 101, "886E83EE-F689-4ECB-B36A-98A0317C162F", 101, 1403016313, "880553", 1403016313, "880553", "{\n}", "802 BROADWAY", "Broadway & Lincoln Blvd", "SE traffic signal on Lincoln & Broadway", "Existing", [ null, "34.01817082", "-118.48963203", null, false ] ]
+, [ 102, "2A4BEE7B-308D-4706-ADCA-7EADB4DF51DB", 102, 1403016313, "880553", 1403016313, "880553", "{\n}", "606 BROADWAY", "6th St & Broadway", "SE traffic signal on 6th & Broadway", "Existing", [ null, "34.01663818", "-118.49152433", null, false ] ]
+, [ 103, "B177F546-8DB3-485E-A7C1-E1AB8C124322", 103, 1403016313, "880553", 1403016313, "880553", "{\n}", "402 COLORADO AVE", "4th St & Colorado Ave", "SE traffic signal on 4th & Colorado", "Existing", [ null, "34.01376990", "-118.49184186", null, false ] ]
+, [ 104, "6CE22615-A31C-4F7C-A0A5-A9284A716E44", 104, 1403016313, "880553", 1403016313, "880553", "{\n}", "602 COLORADO AVE", "6th St & Colorado AVe", "SE traffic signal on 6th & Colorado", "Existing", [ null, "34.01528356", "-118.48997617", null, false ] ]
+, [ 105, "DC8E98CA-0069-4893-AF85-9FB2E3E8EFFC", 105, 1403016313, "880553", 1403016313, "880553", "{\n}", "1601 LINCOLN BLVD", "Lincoln Blvd & Colorado Ave", "SE traffic signal on Colorado & Lincoln", "Existing", [ null, "34.01683753", "-118.48804654", null, false ] ]
+, [ 106, "EF7F306D-875A-41BA-AAD6-94F21E80B437", 106, 1403016313, "880553", 1403016313, "880553", "{\n}", "1661 LINCOLN BLVD", "Olympic Blvd & Lincoln Blvd", "NE traffic signal on Lincoln & Olympic (Westbound)", "Existing", [ null, "34.01536367", "-118.48635039", null, false ] ]
+, [ 107, "5A2270A7-3313-474B-8B0C-B71A2CD4CC60", 107, 1403016313, "880553", 1403016313, "880553", "{\n}", "1758 LINCOLN BLVD", "Linconl Blvd & Michigan Ave", "On utility wire west of Michigan & Lincoln", "Existing", [ null, "34.01381162", "-118.48492609", null, false ] ]
+, [ 108, "F6BE20D8-54E3-4CCE-B2FF-F7206A40582C", 108, 1403016313, "880553", 1403016313, "880553", "{\n}", "302 STRAND ST", "Hotchkiss Park", "On utility wire near SE corner of 3rd & Strand", "Existing", [ null, "34.00572018", "-118.48474159", null, false ] ]
+, [ 109, "E2F3CB70-DEC6-4FA2-BE58-C9FB4EE7C5AE", 109, 1403016313, "880553", 1403016313, "880553", "{\n}", "5TH ST & HOLLISTER AVE", "Los Amigos Park", "On utility wire at NE corner of 5th & Hollister", "Existing", [ null, "34.00655298", "-118.48244976", null, false ] ]
+, [ 110, "98AAB5C3-22A9-4148-B301-EE5EC126BE5D", 110, 1403016313, "880553", 1403016313, "880553", "{\n}", "1802 11TH ST", "11th St & Michigan Ave", "SW traffic signal mast on 11th & Michigan", "Existing", [ null, "34.01597845", "-118.48184064", null, false ] ]
+, [ 111, "9900C31F-2928-4FD3-928E-DDD35B76083B", 111, 1403016313, "880553", 1403016313, "880553", "{\n}", "1748 11TH ST", "11th St & Olympic Blvd Eastbound", "SW traffic signal mast on 11th & Olympic (S of I-10)", "Existing", [ null, "34.01639521", "-118.48239307", null, false ] ]
+, [ 112, "B61E9651-8FB3-45DD-8FEA-A2936D1813FE", 112, 1403016313, "880553", 1403016313, "880553", "{\n}", "1030 OLYMPIC BLVD", "11th St & Olympic blvd Westbound", "SW traffic signal mast on 11th & Olympic (N of I-10)", "Existing", [ null, "34.01719222", "-118.48332318", null, false ] ]
+, [ 113, "EAD1E3D1-92F7-4D59-8258-0F38040E453D", 113, 1403016313, "880553", 1403016313, "880553", "{\n}", "1027 BRAODWAY", "11th St & Broadway", "NW traffic signal on 11th & Broadway", "Existing", [ null, "34.02039640", "-118.48709665", null, false ] ]
+, [ 114, "5B573FC6-0304-4D32-9B9F-DC0E91508608", 114, 1403016313, "880553", 1403016313, "880553", "{\n}", "1117 SANTA MONICA BLVD", "11th St & Santa Monica Blvd", "NE traffic signal on 11th & Santa Monica", "Existing", [ null, "34.02191370", "-118.48854544", null, false ] ]
+, [ 115, "73AE835D-82EB-4677-BE73-C90B2BF02E99", 115, 1403016313, "880553", 1403016313, "880553", "{\n}", "1330 SANTA MONICA BLVD", "14th St & Santa Monica Blvd", "SW traffic signal on 14th & Santa Monica", "Existing", [ null, "34.02393641", "-118.48566337", null, false ] ]
+, [ 116, "482A8F35-BF34-4DDE-BA90-1B0390B1574B", 116, 1403016313, "880553", 1403016313, "880553", "{\n}", "1502 14TH ST", "14th St & Broadway", "SW traffic signal on 14th & Broadway", "Existing", [ null, "34.02263989", "-118.48418840", null, false ] ]
+, [ 117, "E406686E-BEF5-4E83-BD08-30171709A499", 117, 1403016313, "880553", 1403016313, "880553", "{\n}", "1525 EUCLID ST", "Euclid Park", "On utility wire near east entrance of the park on Euclid Ct", "Existing", [ null, "34.02206898", "-118.48429969", null, false ] ]
+, [ 118, "AB38ACF3-322E-4189-BECE-48A363C8DFFD", 118, 1403016313, "880553", 1403016313, "880553", "{\n}", "1702 SANTA MONICA BLVD", "17th St & Santa Monica Blvd", "SE traffic signal on 17th & Santa Monica", "Existing", [ null, "34.02640458", "-118.48267336", null, false ] ]
+, [ 119, "6C03B881-C4B4-4224-B7C6-186E4A76F7FB", 119, 1403016313, "880553", 1403016313, "880553", "{\n}", "1620 BROADWAY", "17th St & Broadway", "SW traffic signal on 17th & Broadway", "Existing", [ null, "34.02492572", "-118.48120610", null, false ] ]
+, [ 120, "D3DC31D8-7D4E-4419-B62B-2008C471632C", 120, 1403016313, "880553", 1403016313, "880553", "{\n}", "2300 SANTA MONICA BLVD", "23rd St & Santa Monica Blvd", "SE traffic signal on 23rd & Santa Monica", "Existing", [ null, "34.03079734", "-118.47731697", null, false ] ]
+, [ 121, "3BF8734B-4784-4C7A-A15C-0FB718E36E13", 121, 1403016313, "880553", 1403016313, "880553", "{\n}", "2500 BROADWAY", "Broadway & Cloverfield Blvd", "NW traffic signal on Broadway & Cloverfield", "Existing", [ null, "34.02977663", "-118.47553893", null, false ] ]
+, [ 122, "2C064A70-5AFA-481B-82BF-F5109554A6FD", 122, 1403016313, "880553", 1403016313, "880553", "{\n}", "2602 SANTA MONICA BLVD", "26th St & Santa Monica Blvd", "SE traffic signal on 26th & Santa Monica", "Existing", [ null, "34.03332221", "-118.47413541", null, false ] ]
+, [ 123, "13E2EA01-22A9-4D73-B927-F17C222BA4D1", 123, 1403016313, "880553", 1403016313, "880553", "{\n}", "1458 26TH ST", "26th St & Broadway", "NW traffic signal on 26th & Broadway", "Existing", [ null, "34.03193908", "-118.47292622", null, false ] ]
+, [ 124, "D74421E2-8BE1-4027-ADF8-90A7B3759D3D", 124, 1403016313, "880553", 1403016313, "880553", "{\n}", "2823 SANTA MONICA BLVD", "Yale St & Santa Monica Blvd", "NW traffic signal on Yale & Santa Monica", "Existing", [ null, "34.03558581", "-118.47166996", null, false ] ]
+, [ 125, "D18BC504-2CFE-443B-A57B-7C8824B329FF", 125, 1403016313, "880553", 1403016313, "880553", "{\n}", "3102 SANTA MONICA BLVD", "Berkeley St & Santa Monica Blvd", "SE traffic signal on Berkeley & Santa Monica", "Existing", [ null, "34.03708092", "-118.46942480", null, false ] ]
+, [ 126, "2CBB2DDB-4CB5-444B-845C-E3CAB4319BEA", 126, 1403016313, "880553", 1403016313, "880553", "{\n}", "1532 OLYMPIC BLVD", "Memorial Park", "On utility wire at SE corner of 16th St & Olympic blvd", "Existing", [ null, "34.02102816", "-118.47863268", null, false ] ]
+, [ 127, "2762D091-83FA-416B-9510-A0FE1B573F05", 127, 1403016313, "880553", 1403016313, "880553", "{\n}", "1401 OLYMPIC BLVD", "14th St & Olympic Blvd", "NE traffic signal on 14th & Olympic", "Existing", [ null, "34.01988636", "-118.48066375", null, false ] ]
+, [ 128, "5C0B2F9C-2BA0-4D40-9E80-E3B009B0500A", 128, 1403016313, "880553", 1403016313, "880553", "{\n}", "1804 14TH ST", "14th St & Michigan Ave", "SE traffic signal mast on 14th & Michigan", "Existing", [ null, "34.01827954", "-118.47904843", null, false ] ]
+, [ 129, "0FE5D0AA-4A19-4D48-A2E8-97D6BB1874E9", 129, 1403016313, "880553", 1403016313, "880553", "{\n}", "1631 COLORADO AVE", "17th St & Colorado Ave", "NW traffic signal on 17th & Colorado", "Existing", [ null, "34.02369491", "-118.47990297", null, false ] ]
+, [ 130, "80D2187D-841F-49AA-BBEC-BA7A02CF5C88", 130, 1403016313, "880553", 1403016313, "880553", "{\n}", "1674 17TH ST", "17th St & Olympic Blvd", "NW traffic signal on 17th & Olympic", "Existing", [ null, "34.02201749", "-118.47794347", null, false ] ]
+, [ 131, "F62EB6A2-306D-42E3-9658-6DE13ACC7ED5", 131, 1403016313, "880553", 1403016313, "880553", "{\n}", "2501 COLORADO AVE", "Cloverfield Blvd & Colorado Ave", "NW traffic signal on Colorado & Cloverfield", "Existing", [ null, "34.02842811", "-118.47400755", null, false ] ]
+, [ 132, "34C3DD06-6976-443E-A26A-6DE9DAC7D980", 132, 1403016313, "880553", 1403016313, "880553", "{\n}", "1601 CLOVERFIELD BLVD", "Olympic Blvd & Cloverfield Blvd", "NE traffic signal on Cloverfield & Olympic", "Existing", [ null, "34.02734016", "-118.47233881", null, false ] ]
+, [ 133, "B442C26E-5169-4495-9B3D-93C82F04F406", 133, 1403016313, "880553", 1403016313, "880553", "{\n}", "2600 COLORADO BLVD", "26th St & Colorado Ave", "SE traffic signal on 26th & Colorado", "Existing", [ null, "34.03068389", "-118.47098360", null, false ] ]
+, [ 134, "D3BC35F9-B056-4AD8-92E7-A476F6037B2C", 134, 1403016313, "880553", 1403016313, "880553", "{\n}", "1650 26TH ST", "26th St & Pennsylvania", "NE traffic signal on 26th & Pennsylvania", "Existing", [ null, "34.02977575", "-118.47044611", null, false ] ]
+, [ 135, "A68B94AA-6A50-4062-901A-0DF02B0F13BE", 135, 1403016313, "880553", 1403016313, "880553", "{\n}", "2425 OLYMPIC BLVD", "26th St & Olympic Blvd", "NW traffic signal on 26th & Olympic", "Existing", [ null, "34.02813450", "-118.47004367", null, false ] ]
+, [ 136, "F4E44D57-C498-4D35-907D-187E0F647BE7", 136, 1403016313, "880553", 1403016313, "880553", "{\n}", "2800 OLYMPIC BLVD", "Olympic Blvd & Stewart St", "SW traffic signal on Stewart St & Olympic", "Existing", [ null, "34.02947834", "-118.46539113", null, false ] ]
+, [ 137, "FBA8C0AD-FCBE-43F6-A636-DBF7A636DF49", 137, 1403016313, "880553", 1403016313, "880553", "{\n}", "2500 MICHIGAN AVE", "Dead end of Michigan St", "On utility wire at the entrance of Bergamot Station Arts Center", "Existing", [ null, "34.02759952", "-118.46780636", null, false ] ]
+, [ 138, "3DA7EE4E-1EA2-4EA5-892D-14D296FAD1FC", 138, 1403016313, "880553", 1403016313, "880553", "{\n}", "2500 MICHIGAN AVE", "Stewart Park / City Yards", "On top of City Yards building between Stewart Park and Bergamot Station", "Existing", [ null, "34.02765456", "-118.46729071", null, false ] ]
+, [ 139, "1835F3C4-3A65-4754-A8AB-789552C349F4", 139, 1403016313, "880553", 1403016313, "880553", "{\n}", "1802 CLOVERFIELD BLVD", "Cloverfield Blvd & Michigan St", "SW traffic signal on Michigan & Cloverfield", "Existing", [ null, "34.02530544", "-118.47029003", null, false ] ]
+ ]
+}

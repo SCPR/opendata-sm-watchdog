@@ -1,0 +1,306 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "5d7h-2kmr",
+      "name" : "Home Page Categories",
+      "averageRating" : 0,
+      "createdAt" : 1401694733,
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414191096,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8371053,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1404747155,
+      "publicationGroup" : 1602984,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1404747153,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1640845,
+      "totalTimesRated" : 0,
+      "viewCount" : 43,
+      "viewLastModified" : 1411509736,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 156207344,
+        "name" : "Title",
+        "dataTypeName" : "text",
+        "fieldName" : "title",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20057433,
+        "width" : 102,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "Finance",
+          "null" : 0,
+          "largest" : "Transportation",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Permits & Licenses "
+          }, {
+            "count" : 19,
+            "item" : "Finance"
+          }, {
+            "count" : 18,
+            "item" : "Public Safety"
+          }, {
+            "count" : 17,
+            "item" : "Public Assets"
+          }, {
+            "count" : 16,
+            "item" : "Public Services"
+          }, {
+            "count" : 15,
+            "item" : "Transportation"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 156207345,
+        "name" : "Order",
+        "dataTypeName" : "number",
+        "fieldName" : "order",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20237370,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "1",
+          "sum" : "21",
+          "null" : 0,
+          "average" : "3.5",
+          "largest" : "6",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          }, {
+            "count" : 17,
+            "item" : "3"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 156207346,
+        "name" : "Link",
+        "dataTypeName" : "text",
+        "fieldName" : "link",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20057436,
+        "width" : 266,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "/browse?category=Finance",
+          "null" : 0,
+          "largest" : "/browse?category=Transportation",
+          "top" : [ {
+            "count" : 20,
+            "item" : "/browse?category=Permits+%26+Licenses"
+          }, {
+            "count" : 19,
+            "item" : "/browse?category=Finance"
+          }, {
+            "count" : 18,
+            "item" : "/browse?category=Public+Safety"
+          }, {
+            "count" : 17,
+            "item" : "/browse?category=Public+Assets"
+          }, {
+            "count" : 16,
+            "item" : "/browse?category=Public+Services"
+          }, {
+            "count" : 15,
+            "item" : "/browse?category=Transportation"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 156207347,
+        "name" : "Icon",
+        "dataTypeName" : "text",
+        "fieldName" : "icon",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20057435,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "&#x1F333;",
+          "null" : 0,
+          "largest" : "&#xE545;",
+          "top" : [ {
+            "count" : 20,
+            "item" : "&#xE2B3;"
+          }, {
+            "count" : 19,
+            "item" : "&#xE545;"
+          }, {
+            "count" : 18,
+            "item" : "&#x1F512;"
+          }, {
+            "count" : 17,
+            "item" : "&#x1F333;"
+          }, {
+            "count" : 16,
+            "item" : "&#x1F3E6;"
+          }, {
+            "count" : 15,
+            "item" : "&#x1F68D;"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 156207348,
+        "name" : "Description",
+        "dataTypeName" : "text",
+        "fieldName" : "description",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20057434,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 6
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "metadata_table", "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "g9i9-z6y7",
+        "displayName" : "Louis Fettet",
+        "profileImageUrlLarge" : "/images/profile/3689/9466/evensmaller_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/3689/9466/evensmaller_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/3689/9466/evensmaller_tiny.jpg",
+        "screenName" : "Louis Fettet",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "g9i9-z6y7",
+        "displayName" : "Louis Fettet",
+        "profileImageUrlLarge" : "/images/profile/3689/9466/evensmaller_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/3689/9466/evensmaller_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/3689/9466/evensmaller_tiny.jpg",
+        "screenName" : "Louis Fettet",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "7EE6A81C-C63F-44BC-BDE5-C5AA1CA40F33", 1, 1401694737, "719654", 1403744132, "880551", null, "Permits & Licenses ", "2", "/browse?category=Permits+%26+Licenses", "&#xE2B3;", null ]
+, [ 2, "E000D651-A5E8-4F30-BDE1-AD93529B6443", 2, 1401694737, "719654", 1404747153, "719654", null, "Finance", "1", "/browse?category=Finance", "&#xE545;", null ]
+, [ 3, "C960DAF7-0A2E-446F-9237-820E9A748D33", 3, 1401694737, "719654", 1403744143, "880551", null, "Public Safety", "4", "/browse?category=Public+Safety", "&#x1F512;", null ]
+, [ 4, "A049FE80-C49E-4637-8CDC-DC17109F4E6E", 4, 1401694737, "719654", 1404747124, "719654", null, "Public Assets", "3", "/browse?category=Public+Assets", "&#x1F333;", null ]
+, [ 5, "32B58DF6-58A4-4354-8B2E-741A79B80D01", 5, 1401694737, "719654", 1403744159, "880551", null, "Public Services", "5", "/browse?category=Public+Services", "&#x1F3E6;", null ]
+, [ 6, "E225B8FC-F03D-4BA7-877A-7294751B9EBE", 6, 1401694737, "719654", 1403744188, "880551", null, "Transportation", "6", "/browse?category=Transportation", "&#x1F68D;", null ]
+ ]
+}

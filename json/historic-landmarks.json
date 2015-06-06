@@ -1,0 +1,894 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qe7x-ueps",
+      "name" : "Historic Landmarks",
+      "averageRating" : 0,
+      "category" : "Public Assets",
+      "createdAt" : 1411602308,
+      "description" : "A historic resource may be a building, structure, site, object, district, or landscape that may be associated with historic events; associated with important historical persons; represent a rare type of historic property; or has architectural quality or importance.",
+      "displayType" : "table",
+      "downloadCount" : 16,
+      "indexUpdatedAt" : 1414191103,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8937485,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1411603418,
+      "publicationGroup" : 1727698,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowIdentifierColumnId" : 168300095,
+      "rowsUpdatedAt" : 1411603386,
+      "rowsUpdatedBy" : "5rc3-qmu8",
+      "tableId" : 1727714,
+      "totalTimesRated" : 0,
+      "viewCount" : 80,
+      "viewLastModified" : 1411664883,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 168300095,
+        "name" : "ID",
+        "dataTypeName" : "number",
+        "fieldName" : "id",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22114480,
+        "width" : 124,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "1",
+          "sum" : "7401",
+          "null" : 0,
+          "average" : "85.06896551724138",
+          "largest" : "484",
+          "top" : [ {
+            "count" : 20,
+            "item" : "480"
+          }, {
+            "count" : 19,
+            "item" : "481"
+          }, {
+            "count" : 18,
+            "item" : "482"
+          }, {
+            "count" : 17,
+            "item" : "483"
+          }, {
+            "count" : 16,
+            "item" : "484"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300096,
+        "name" : "Name",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22114481,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "\"Bowl\" Sign",
+          "null" : 0,
+          "largest" : "Victorian House",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Art Deco Commercial Building"
+          }, {
+            "count" : 19,
+            "item" : "\"Bowl\" Sign"
+          }, {
+            "count" : 18,
+            "item" : "American Foursquare Residence"
+          }, {
+            "count" : 17,
+            "item" : "Craftsman Beach Bungalow"
+          }, {
+            "count" : 16,
+            "item" : "Palisades Building"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300097,
+        "name" : "Address",
+        "dataTypeName" : "text",
+        "fieldName" : "address",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22114482,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "1001 3rd St",
+          "null" : 0,
+          "largest" : "Santa Monica Blvd. & 5th St",
+          "top" : [ {
+            "count" : 20,
+            "item" : "301-315 Wilshire Boulevard"
+          }, {
+            "count" : 19,
+            "item" : "234 Pico Boulevard"
+          }, {
+            "count" : 18,
+            "item" : "142 Hollister Avenue"
+          }, {
+            "count" : 17,
+            "item" : "3018 Third Street"
+          }, {
+            "count" : 16,
+            "item" : "101 Wilshire Boulevard"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300280,
+        "name" : "Date Designated",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_designated",
+        "position" : 4,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 22114483,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "1975-08-20T00:00:00",
+          "null" : 0,
+          "largest" : "2013-09-08T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1976-08-17T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "1979-01-02T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "1997-08-11T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2002-12-09T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2003-02-10T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2003-04-14T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2003-07-14T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2003-08-26T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2003-10-13T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2003-12-08T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2004-03-08T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2004-08-09T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2004-12-13T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2005-01-10T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2005-06-13T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2005-07-11T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2005-10-10T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2005-09-12T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2005-11-14T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2006-07-10T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 168300099,
+        "name" : "Date Built",
+        "dataTypeName" : "text",
+        "fieldName" : "date_built",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22114484,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "105-6",
+          "null" : 0,
+          "largest" : "Pre-1912",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1923"
+          }, {
+            "count" : 19,
+            "item" : "1929"
+          }, {
+            "count" : 18,
+            "item" : "1938"
+          }, {
+            "count" : 17,
+            "item" : "1928"
+          }, {
+            "count" : 16,
+            "item" : "1911"
+          }, {
+            "count" : 15,
+            "item" : "1910"
+          }, {
+            "count" : 14,
+            "item" : "1914"
+          }, {
+            "count" : 13,
+            "item" : "1935"
+          }, {
+            "count" : 12,
+            "item" : "1931"
+          }, {
+            "count" : 11,
+            "item" : "1906"
+          }, {
+            "count" : 10,
+            "item" : "1927"
+          }, {
+            "count" : 9,
+            "item" : "1964"
+          }, {
+            "count" : 8,
+            "item" : "1926"
+          }, {
+            "count" : 7,
+            "item" : "1947"
+          }, {
+            "count" : 6,
+            "item" : "1962"
+          }, {
+            "count" : 5,
+            "item" : "1913"
+          }, {
+            "count" : 4,
+            "item" : "circa 1890"
+          }, {
+            "count" : 3,
+            "item" : "Circa 1898-1902"
+          }, {
+            "count" : 2,
+            "item" : "Circa 1925"
+          }, {
+            "count" : 1,
+            "item" : "Circa 1909"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300100,
+        "name" : "Architect",
+        "dataTypeName" : "text",
+        "fieldName" : "architect",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22114485,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 85,
+          "smallest" : "A. Scott",
+          "null" : 2,
+          "largest" : "William L. Rudolph",
+          "top" : [ {
+            "count" : 20,
+            "item" : "John Byers"
+          }, {
+            "count" : 19,
+            "item" : "Unknown"
+          }, {
+            "count" : 18,
+            "item" : "Henry C. Hollwedel"
+          }, {
+            "count" : 17,
+            "item" : "Arthur P. Harvey"
+          }, {
+            "count" : 16,
+            "item" : "James M. Weaver"
+          }, {
+            "count" : 15,
+            "item" : "Sanford Kent"
+          }, {
+            "count" : 14,
+            "item" : "J. L. Schrurs"
+          }, {
+            "count" : 13,
+            "item" : "Frank Bivens"
+          }, {
+            "count" : 12,
+            "item" : "Joseph F. Rhodes"
+          }, {
+            "count" : 11,
+            "item" : "Pan Pacific Neon Sign Company"
+          }, {
+            "count" : 10,
+            "item" : "Paul Conrad"
+          }, {
+            "count" : 9,
+            "item" : "Britton S. Shriver"
+          }, {
+            "count" : 8,
+            "item" : "M. Eugene Durfee"
+          }, {
+            "count" : 7,
+            "item" : "Irvin Goodfellow"
+          }, {
+            "count" : 6,
+            "item" : "William L. Rudolph"
+          }, {
+            "count" : 5,
+            "item" : "William Ache"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300101,
+        "name" : "Information",
+        "dataTypeName" : "text",
+        "fieldName" : "information",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22114486,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "a.k.a. Majestic Theatre",
+          "null" : 70,
+          "largest" : "W.S. Freeman, Contractor",
+          "top" : [ {
+            "count" : 20,
+            "item" : "moved from 1140 7th St"
+          }, {
+            "count" : 19,
+            "item" : "On the grounds of Reed Park"
+          }, {
+            "count" : 18,
+            "item" : "funded by Carnegie Corp."
+          }, {
+            "count" : 17,
+            "item" : "National Register Landmark"
+          }, {
+            "count" : 16,
+            "item" : "located at 415 P.C.H."
+          }, {
+            "count" : 15,
+            "item" : "Moved to Santa Monica in 1952"
+          }, {
+            "count" : 14,
+            "item" : "a.k.a. Majestic Theatre"
+          }, {
+            "count" : 13,
+            "item" : "moved from 2712 2nd St"
+          }, {
+            "count" : 12,
+            "item" : "W.S. Freeman, Contractor"
+          }, {
+            "count" : 11,
+            "item" : "Carousel Building @ Santa Monica Pier; Originally called Looff Pier"
+          }, {
+            "count" : 10,
+            "item" : "Art Deco / Streamline Moderne"
+          }, {
+            "count" : 9,
+            "item" : "Includes 2 original works of art by artist Stanton MacDonald-Wright"
+          }, {
+            "count" : 8,
+            "item" : "Estimated age: 104 years"
+          }, {
+            "count" : 7,
+            "item" : "About 90 years old.  Reportedly the tallest of this species in U.S."
+          }, {
+            "count" : 6,
+            "item" : "Constructed circa 1890.  Located on site since 1908."
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300102,
+        "name" : "Type",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22114487,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "Landmark",
+          "null" : 0,
+          "largest" : "Structure of Merit",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Structure of Merit"
+          }, {
+            "count" : 19,
+            "item" : "Landmark"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300103,
+        "name" : "Photo URL",
+        "dataTypeName" : "url",
+        "fieldName" : "photo_url",
+        "position" : 9,
+        "renderTypeName" : "url",
+        "tableColumnId" : 22114488,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 75,
+          "smallest" : {
+            "url" : "http://gismap.santa-monica.org/website/landmarkphotos/1001_3rdSt.jpg"
+          },
+          "null" : 12,
+          "largest" : {
+            "url" : "http://gismap.santa-monica.org/website/landmarkphotos/merlenorman.jpg"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/merlenorman.jpg"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/954_5thst.jpg"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/barnumhall.jpg"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/cedar_deodara.jpg"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/317Georgina.jpg"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/507Wilshire.jpg"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/710Adelaide.jpg"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/502RaymondAve.jpg"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/2034LaMesaDr.jpg"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/eucalyptus.jpg"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/128HollisterAve.jpg"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/147GeorginaAve.jpg"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/1001_3rdSt.jpg"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/1911lamesadr.jpg"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/1414IdahoAve.jpg"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/2511BeverlyAve.jpg"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/1337OceanAve.jpg"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/404GeorginaAve.jpg"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/225SantaMonicaBlvd.jpg"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://gismap.santa-monica.org/website/landmarkphotos/302ColoradoAve.jpg"
+            }
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 168300104,
+        "name" : "Latitude",
+        "dataTypeName" : "number",
+        "fieldName" : "latitude",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22114559,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "33.99853886",
+          "sum" : "2959.48239984",
+          "null" : 0,
+          "average" : "34.01703907862069",
+          "largest" : "34.04718764",
+          "top" : [ {
+            "count" : 20,
+            "item" : "34.01877335"
+          }, {
+            "count" : 19,
+            "item" : "34.00840829"
+          }, {
+            "count" : 18,
+            "item" : "34.0035789"
+          }, {
+            "count" : 17,
+            "item" : "33.99930013"
+          }, {
+            "count" : 16,
+            "item" : "34.01784789"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300105,
+        "name" : "Longitude",
+        "dataTypeName" : "number",
+        "fieldName" : "longitude",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22114560,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "-118.5143924",
+          "sum" : "-10308.9518522",
+          "null" : 0,
+          "average" : "-118.4936994505747",
+          "largest" : "-118.4444035",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-118.4991389"
+          }, {
+            "count" : 19,
+            "item" : "-118.4888227"
+          }, {
+            "count" : 18,
+            "item" : "-118.4866831"
+          }, {
+            "count" : 17,
+            "item" : "-118.478629"
+          }, {
+            "count" : 16,
+            "item" : "-118.5010786"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 168300106,
+        "name" : "Map Point",
+        "dataTypeName" : "location",
+        "fieldName" : "map_point",
+        "position" : 12,
+        "renderTypeName" : "location",
+        "tableColumnId" : 22114489,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : {
+            "longitude" : "-118.5105783",
+            "latitude" : "34.03115236"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.5010786",
+            "latitude" : "34.01784789"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.4991389",
+              "latitude" : "34.01877335"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.4888227",
+              "latitude" : "34.00840829"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.4866831",
+              "latitude" : "34.0035789"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.478629",
+              "latitude" : "33.99930013"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.5010786",
+              "latitude" : "34.01784789"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "attachments" : [ {
+          "assetId" : "iaonxg0mT4EUIRGKlwlsV5ym2a_JKKPiO2DbvvY0hEA",
+          "blobId" : "",
+          "name" : "historic_landmarks.zip",
+          "filename" : "historic_landmarks.zip"
+        } ],
+        "rowIdentifier" : "168300095",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "5rc3-qmu8",
+        "displayName" : "Kevin Hobson",
+        "roleName" : "administrator",
+        "screenName" : "Kevin Hobson",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "5rc3-qmu8",
+        "displayName" : "Kevin Hobson",
+        "roleName" : "administrator",
+        "screenName" : "Kevin Hobson",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "gis", "landmarks", "historic" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "079C1020-4569-4291-B06A-AD263F525BDD", 1, 1411603366, "880550", 1411603366, "880550", "{\n}", "1", "Residence", "506 Adelaide Dr", "1994-06-20T00:00:00", "1923", "John Byers", null, "Structure of Merit", [ "http://gismap.santa-monica.org/website/landmarkphotos/506AdelaideDr.jpg", null ], "34.03115236", "-118.5105783", [ null, "34.03115236", "-118.5105783", null, false ] ]
+, [ 2, "D41286F0-A651-49C2-BDF1-4D3FA6D1DB49", 2, 1411603366, "880550", 1411603366, "880550", "{\n}", "2", "Baxter Residence", "2450 25th St", "1999-09-13T00:00:00", "circa 1907", "Unknown", "moved from 1140 7th St", "Structure of Merit", [ "http://gismap.santa-monica.org/website/landmarkphotos/245025thSt.jpg", null ], "34.018663", "-118.4606177", [ null, "34.018663", "-118.4606177", null, false ] ]
+, [ 3, "CE69BC16-D5A9-4690-BD70-DF9B11A5DEB7", 3, 1411603366, "880550", 1411603366, "880550", "{\n}", "3", "Miles Playhouse", "1130 Lincoln Blvd", "1975-10-15T00:00:00", "1929", "John Byers", "On the grounds of Reed Park", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1130LincolnBlvd.jpg", null ], "34.02276695", "-118.4955315", [ null, "34.02276695", "-118.4955315", null, false ] ]
+, [ 4, "DF72A207-7C25-4061-A9D4-80E7CD88AE5B", 4, 1411603366, "880550", 1411603366, "880550", "{\n}", "4", "Miramar Moreton Bay Fig Tree", "Ocean Avenue & Wilshire Blvd.", "1976-08-17T00:00:00", "pre-1900", null, null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/FigTree.jpg", null ], "34.01776959", "-118.5014033", [ null, "34.01776959", "-118.5014033", null, false ] ]
+, [ 5, "E814EAE0-7A24-4AA8-9E18-1963D79E75A0", 5, 1411603366, "880550", 1411603366, "880550", "{\n}", "5", "Ocean Park Library", "2601 Main St", "1977-05-03T00:00:00", "Circa 1917-18", "Kegly & Gerity", "funded by Carnegie Corp.", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/OceanParkLibrary.jpg", null ], "34.0027031", "-118.4836193", [ null, "34.0027031", "-118.4836193", null, false ] ]
+, [ 6, "9871FEE0-21FB-4C3C-A507-BF46BF59F55B", 6, 1411603366, "880550", 1411603366, "880550", "{\n}", "6", "Parkhurst Building", "185 Pier Ave", "1977-12-06T00:00:00", "1927", "Norman F. Marsh & Company", "National Register Landmark", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/185PierAve.jpg", null ], "33.99853886", "-118.4804427", [ null, "33.99853886", "-118.4804427", null, false ] ]
+, [ 7, "27C85AF3-546A-4DCE-BBDA-B0EFC492FB36", 7, 1411603366, "880550", 1411603366, "880550", "{\n}", "7", "First Roy Jones House", "2612 Main St", "1979-01-02T00:00:00", "1894", "Sumner P. Hunt", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/2612MainSt.jpg", null ], "34.00202302", "-118.4838766", [ null, "34.00202302", "-118.4838766", null, false ] ]
+, [ 8, "0F1A7CC0-C22A-4ACA-A5E1-D8E2F1469498", 8, 1411603366, "880550", 1411603366, "880550", "{\n}", "8", "Santa Monica City Hall", "1685 Main St", "1979-10-16T00:00:00", "1938", "Donald Parkinson & J.M. Estep", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/CityHall.jpg", null ], "34.01188384", "-118.4914023", [ null, "34.01188384", "-118.4914023", null, false ] ]
+, [ 9, "768A3439-485F-4499-B99F-E1BD58DC9A8B", 9, 1411603366, "880550", 1411603366, "880550", "{\n}", "9", "Oregon Avenue Sidewalk Sign West", "Santa Monica Blvd. & 5th St", "1981-05-20T00:00:00", "Pre-1912", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/SidewalkSign.jpg", null ], "34.01717948", "-118.4943721", [ null, "34.01717948", "-118.4943721", null, false ] ]
+, [ 10, "36C2FC97-DCD1-4E54-816C-898CA6C36F9D", 10, 1411603366, "880550", 1411603366, "880550", "{\n}", "10", "Marion Davies Estate, North Guest House", "321 Palisades Beach Rd", "1980-07-17T00:00:00", "1929", "Julia Morgan", "located at 415 P.C.H.", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/321PalisadesBeachRd.jpg", null ], "34.02448916", "-118.5133126", [ null, "34.02448916", "-118.5133126", null, false ] ]
+, [ 11, "0C00F413-3837-4634-8FF4-AE5C3A28C6BB", 11, 1411603366, "880550", 1411603366, "880550", "{\n}", "11", "Santa Monica Airport, Rotating Beacon Tower", "Adj. to 3223 Donald Douglass Loop", "1988-08-11T00:00:00", "1928", null, "Moved to Santa Monica in 1952", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/BeaconTower.jpg", null ], "34.01780479", "-118.4471092", [ null, "34.01780479", "-118.4471092", null, false ] ]
+, [ 12, "37B2B2A6-63E3-4448-9AE7-DCD80445F3C0", 12, 1411603366, "880550", 1411603366, "880550", "{\n}", "12", "Mayfair Theatre", "212-216 Santa Monica Blvd.", "1994-07-11T00:00:00", "1911", "Henry C. Hollwedel", "a.k.a. Majestic Theatre", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/MayfairTheater.jpg", null ], "34.01500733", "-118.4964553", [ null, "34.01500733", "-118.4964553", null, false ] ]
+, [ 13, "57341060-284C-46FB-924D-8F397920A5AB", 13, 1411603366, "880550", 1411603366, "880550", "{\n}", "13", "Isaac Milbank House", "236 Adelaide Drive", "2002-03-11T00:00:00", "1911", "Meyer&Holler/Milwaukee Bldg Co", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/236AdelaideDr.jpg", null ], "34.02892497", "-118.5130795", [ null, "34.02892497", "-118.5130795", null, false ] ]
+, [ 14, "19F80CB1-C33D-4BBA-BD9F-66FF83DF29C0", 14, 1411603366, "880550", 1411603366, "880550", "{\n}", "14", "Santa Monica Civic Auditorium", "1855 Main St", "2002-04-09T00:00:00", "1958", "Welton Becket & Associates", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/CivicAuditorium.jpg", null ], "34.00908077", "-118.4892972", [ null, "34.00908077", "-118.4892972", null, false ] ]
+, [ 15, "86B649C4-C12F-4CB6-B980-3447C52C2F18", 15, 1411603366, "880550", 1411603366, "880550", "{\n}", "15", "Rapp Saloon", "1438 2nd St", "1975-08-20T00:00:00", "1875", "Spencer & Pugh, Bricklayers", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/14382ndSt.jpg", null ], "34.01389129", "-118.4964136", [ null, "34.01389129", "-118.4964136", null, false ] ]
+, [ 16, "E5D10FC6-418D-4AC0-8AF2-E4192CA9844E", 16, 1411603366, "880550", 1411603366, "880550", "{\n}", "16", "Methodist Episcopal Church", "2621 2nd St", "1977-01-04T00:00:00", "1875-76", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/26212ndSt.jpg", null ], "34.00191322", "-118.4819606", [ null, "34.00191322", "-118.4819606", null, false ] ]
+, [ 17, "4405C90A-D892-4281-9880-FB88CDEE1334", 17, 1411603366, "880550", 1411603366, "880550", "{\n}", "17", "Horatio West Court", "140 Hollister Ave", "1979-01-02T00:00:00", "Circa 1921", "Irving Gill", "National Register Landmark", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/140HollisterAve.jpg", null ], "34.00343458", "-118.4868631", [ null, "34.00343458", "-118.4868631", null, false ] ]
+, [ 18, "29F2896F-CDC3-48A3-B0ED-FBA4A34CB486", 18, 1411603366, "880550", 1411603366, "880550", "{\n}", "18", "John W. & Anna George House", "2424 4th St", "1981-03-17T00:00:00", "Circa 1911", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/24244thSt.jpg", null ], "34.00513358", "-118.4831262", [ null, "34.00513358", "-118.4831262", null, false ] ]
+, [ 19, "521EB42D-97E2-4CA5-9C4B-38695FA9AC33", 19, 1411603366, "880550", 1411603366, "880550", "{\n}", "19", "John Byers Office", "246 26th St", "1982-03-12T00:00:00", "1926-54", "John Byers", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/24626thSt.jpg", null ], "34.04718764", "-118.4909646", [ null, "34.04718764", "-118.4909646", null, false ] ]
+, [ 20, "F1F11699-907B-4E51-B579-E09797C73BE5", 20, 1411603366, "880550", 1411603366, "880550", "{\n}", "20", "Gussie Moran House", "1323 Ocean Ave", "1979-01-27T00:00:00", "Circa 1891", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1323OceanAve.jpg", null ], "34.01515334", "-118.4986724", [ null, "34.01515334", "-118.4986724", null, false ] ]
+, [ 21, "B77FD26F-4B43-437B-AAEC-038F3DDCA635", 21, 1411603366, "880550", 1411603366, "880550", "{\n}", "21", "Henry Weaver House", "142 Adelaide Dr", "1989-05-11T00:00:00", "1910", "Milwaukee Building Company", "National Register Landmark", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/142AdelaideDr.jpg", null ], "34.02789164", "-118.5141602", [ null, "34.02789164", "-118.5141602", null, false ] ]
+, [ 22, "38AC2AB4-63D6-413A-AE15-0E317CF09639", 22, 1411603366, "880550", 1411603366, "880550", "{\n}", "22", "Moses Hostetter House", "2601 2nd St", "1990-04-12T00:00:00", "1893", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/26012ndSt.jpg", null ], "34.00244043", "-118.4824905", [ null, "34.00244043", "-118.4824905", null, false ] ]
+, [ 23, "ABBB0A6A-E276-42B0-9190-000810714FF4", 23, 1411603366, "880550", 1411603366, "880550", "{\n}", "23", "Henry Weyse/Charles Morris House", "401 Ocean Ave", "1990-09-13T00:00:00", "1910", "Robert Farquhar", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/401OceanAve.jpg", null ], "34.02571002", "-118.5119238", [ null, "34.02571002", "-118.5119238", null, false ] ]
+, [ 24, "3BE8C9F9-93C7-46DE-A985-DCF1716DDD0F", 24, 1411603366, "880550", 1411603366, "880550", "{\n}", "24", "Hollister Court", "2402 4th St & 2401 3rd St", "1990-12-13T00:00:00", "1904 - early 20s", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/HollisterCourt.jpg", null ], "34.00541672", "-118.4837417", [ null, "34.00541672", "-118.4837417", null, false ] ]
+, [ 25, "7C0752F2-6B14-4FE5-B067-D31570313449", 25, 1411603366, "880550", 1411603366, "880550", "{\n}", "25", "Santa Monica Bay Woman's Club Building", "1210 4th St", "1991-04-08T00:00:00", "1914", "Henry C. Hollwedel", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/12104thSt.jpg", null ], "34.0185786", "-118.4981981", [ null, "34.0185786", "-118.4981981", null, false ] ]
+, [ 26, "F3458B07-39CD-4E77-827F-78AA395C781A", 26, 1411603366, "880550", 1411603366, "880550", "{\n}", "26", "Vanity Fair Apartments", "822 3rd St", "1992-09-08T00:00:00", "1935", "Carl R. Henderson", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/8223rdSt.jpg", null ], "34.02301911", "-118.5052422", [ null, "34.02301911", "-118.5052422", null, false ] ]
+, [ 27, "4D31994F-5386-49C2-BF15-6E20FF22D0AB", 27, 1411603366, "880550", 1411603366, "880550", "{\n}", "27", "Gillis House", "406 Adelaide Dr", "1993-03-08T00:00:00", "1905", "Myron Hunt & Elmer Grey", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/406AdelaideDr.jpg", null ], "34.03016609", "-118.5117465", [ null, "34.03016609", "-118.5117465", null, false ] ]
+, [ 28, "DE73FD29-C4E6-4106-87F7-44916DAD9912", 28, 1411603366, "880550", 1411603366, "880550", "{\n}", "28", "Charmont Apartments", "330 California Ave", "1994-10-10T00:00:00", "1929", "Max Maltzman", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/330CaliforniaAve.jpg", null ], "34.02012383", "-118.4998945", [ null, "34.02012383", "-118.4998945", null, false ] ]
+, [ 29, "B5659E7A-48AE-402F-910D-A3818989CC77", 29, 1411603366, "880550", 1411603366, "880550", "{\n}", "29", "Georgian Hotel", "1415 Ocean Ave", "1995-02-22T00:00:00", "1931", "M. Eugene Durfee", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1415OceanAve.jpg", null ], "34.01383116", "-118.4972163", [ null, "34.01383116", "-118.4972163", null, false ] ]
+, [ 30, "F0BB148B-0DF1-4FFE-8BB4-89B292798129", 30, 1411603366, "880550", 1411603366, "880550", "{\n}", "30", "Sovereign Apt/Hotel", "205 Washington Ave", "1996-01-08T00:00:00", "1928", "Meyer-Radon", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/205WashingtonAve.jpg", null ], "34.02071733", "-118.5033205", [ null, "34.02071733", "-118.5033205", null, false ] ]
+, [ 31, "F3243A7A-6585-449A-8BC8-F0120BA16ABF", 31, 1411603366, "880550", 1411603366, "880550", "{\n}", "31", "Merle Norman House", "2523 3rd St", "1996-06-10T00:00:00", "1935", "Ellis G. Martin", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/25233rdSt.jpg", null ], "34.00375483", "-118.482383", [ null, "34.00375483", "-118.482383", null, false ] ]
+, [ 32, "AAF3FB4B-08DB-4601-88F8-0903D9B8A6D7", 32, 1411603366, "880550", 1411603366, "880550", "{\n}", "32", "Second Roy Jones House", "130 Adelaide Dr", "1997-08-11T00:00:00", "1907", "Attributed to Robert Farquhar", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/130AdelaideDr.jpg", null ], "34.02767809", "-118.5143924", [ null, "34.02767809", "-118.5143924", null, false ] ]
+, [ 33, "4F886A8F-A203-4109-A1FE-F44999CCBAA0", 33, 1411603366, "880550", 1411603366, "880550", "{\n}", "33", "Charles Warren Brown House", "2504 3rd St", "1997-08-11T00:00:00", "1908", "Charles Warren Brown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/25043rdSt.jpg", null ], "34.00387229", "-118.4832604", [ null, "34.00387229", "-118.4832604", null, false ] ]
+, [ 34, "5A835223-4582-465C-8A19-F1EE165B66AA", 34, 1411603366, "880550", 1411603366, "880550", "{\n}", "34", "Shotgun House", "S.M. Airport (temporary)", "1999-01-11T00:00:00", "Circa 1899", "Unknown", "moved from 2712 2nd St", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/ShotgunHouse.jpg", null ], "34.01733641", "-118.4444035", [ null, "34.01733641", "-118.4444035", null, false ] ]
+, [ 35, "BBCC8237-102E-490F-BB9D-9C370CEC503A", 35, 1411603366, "880550", 1411603366, "880550", "{\n}", "35", "Aeroplane Bungalow", "315 10th St", "1999-04-12T00:00:00", "1912", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/31510thSt.jpg", null ], "34.03427839", "-118.5044569", [ null, "34.03427839", "-118.5044569", null, false ] ]
+, [ 36, "170B1E06-E9FC-4D97-AFEF-32431E7C3E3D", 36, 1411603366, "880550", 1411603366, "880550", "{\n}", "36", "Fones Residence", "555 7th St", "2000-04-10T00:00:00", "1914", "Unknown", "W.S. Freeman, Contractor", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/5557thSt.jpg", null ], "34.02894394", "-118.5037476", [ null, "34.02894394", "-118.5037476", null, false ] ]
+, [ 37, "77B99ED4-10CF-4608-A9AF-584E8F1E4568", 37, 1411603366, "880550", 1411603366, "880550", "{\n}", "37", "The Palama", "211 Alta Ave", "2000-05-08T00:00:00", "1922", "W.R. Covington", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/211AltaAve.jpg", null ], "34.02541325", "-118.5085461", [ null, "34.02541325", "-118.5085461", null, false ] ]
+, [ 38, "583E7CE0-79E8-413D-9ADE-526ABA44DD97", 38, 1411603366, "880550", 1411603366, "880550", "{\n}", "38", "Victorian House", "1333 Ocean Ave", "2001-08-14T00:00:00", "1906", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1333OceanAve.jpg", null ], "34.01495577", "-118.4984419", [ null, "34.01495577", "-118.4984419", null, false ] ]
+, [ 39, "F6F90366-25B2-46C8-9DB6-14C144D9D9F2", 39, 1411603366, "880550", 1411603366, "880550", "{\n}", "39", "Lido Hotel", "1455 4th St", "2001-11-12T00:00:00", "1931", "Harbin F. Hunter", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/14554thSt.jpg", null ], "34.01557463", "-118.4936378", [ null, "34.01557463", "-118.4936378", null, false ] ]
+, [ 40, "BBA8F036-3CFB-4210-A7BA-3834A22EC094", 40, 1411603366, "880550", 1411603366, "880550", "{\n}", "40", "Looff Hippodrome", "Foot of Colorado Ave", "1976-08-17T00:00:00", "1916", "various builders", "Carousel Building @ Santa Monica Pier; Originally called Looff Pier", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/LooffHippodrome.jpg", null ], "34.01008044", "-118.4961192", [ null, "34.01008044", "-118.4961192", null, false ] ]
+, [ 41, "3BB6B9C2-98AD-47CD-A99C-497E05CB041A", 41, 1411603366, "880550", 1411603366, "880550", "{\n}", "41", "Santa Monica Pier", "Foot of Colorado Ave", "1976-08-17T00:00:00", "1909", "Charles Looff", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/SantaMonicaPier.jpg", null ], "34.00917521", "-118.4969584", [ null, "34.00917521", "-118.4969584", null, false ] ]
+, [ 42, "C6234DA7-93BF-4631-A8B8-6F6F4ACD21E7", 42, 1411603366, "880550", 1411603366, "880550", "{\n}", "42", "Merle Norman Building", "2525 Main St", "2002-11-11T00:00:00", "1936", "H.G. Thursby", "Art Deco / Streamline Moderne", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/merlenorman.jpg", null ], "34.00283833", "-118.4840853", [ null, "34.00283833", "-118.4840853", null, false ] ]
+, [ 43, "0738D140-A928-4896-A4BB-1D4A5DFEDA35", 43, 1411603366, "880550", 1411603366, "880550", "{\n}", "43", "Turn of 20th Century Cottage", "954 5th St", "2002-12-09T00:00:00", "1906", "James Kneen", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/954_5thst.jpg", null ], "34.02272654", "-118.5009677", [ null, "34.02272654", "-118.5009677", null, false ] ]
+, [ 44, "BDC7E0F0-69B8-4554-A4B2-ED7D04D782E1", 44, 1411603366, "880550", 1411603366, "880550", "{\n}", "44", "Barnum Hall", "601 Pico Blvd", "2002-12-09T00:00:00", "1938", "Marsh, Smith & Powell", "Includes 2 original works of art by artist Stanton MacDonald-Wright", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/barnumhall.jpg", null ], "34.01136611", "-118.4851771", [ null, "34.01136611", "-118.4851771", null, false ] ]
+, [ 45, "80BF215D-38D4-4917-83CE-BFEB6C7A4825", 45, 1411603366, "880550", 1411603366, "880550", "{\n}", "45", "Cedar Deodara", "918 5th St", "2002-12-09T00:00:00", "not applicable", "not applicable", "Estimated age: 104 years", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/cedar_deodara.jpg", null ], "34.02341758", "-118.5017729", [ null, "34.02341758", "-118.5017729", null, false ] ]
+, [ 46, "1DD05A97-9312-48B2-9241-74D02A22AB7B", 46, 1411603366, "880550", 1411603366, "880550", "{\n}", "46", "A. McFadden Residence", "317 Georgina Ave", "2003-02-10T00:00:00", "1923", "Webber, Staunton & Spaulding", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/317Georgina.jpg", null ], "34.02809976", "-118.5103408", [ null, "34.02809976", "-118.5103408", null, false ] ]
+, [ 47, "80500E48-4883-499E-8BC8-831E42C9590C", 47, 1411603366, "880550", 1411603366, "880550", "{\n}", "47", "Streamline Moderne Commercial Building", "507 Wilshire Blvd", "2003-02-10T00:00:00", "1940", "Douglas Lee", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/507Wilshire.jpg", null ], "34.02039746", "-118.497315", [ null, "34.02039746", "-118.497315", null, false ] ]
+, [ 48, "7C107585-5114-42E8-B017-4F2E56FF01CC", 48, 1411603366, "880550", 1411603366, "880550", "{\n}", "48", "Residence", "710 Adelaide Pl", "2003-03-10T00:00:00", "1923", "Robert Stacey-Judd", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/710Adelaide.jpg", null ], "34.03304606", "-118.5082335", [ null, "34.03304606", "-118.5082335", null, false ] ]
+, [ 49, "4C5C3AFA-2B6E-4A34-8D1D-125665572274", 49, 1411603366, "880550", 1411603366, "880550", "{\n}", "49", "Craftsman-style Residence", "502 Raymond Ave", "2003-04-14T00:00:00", "1913", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/502RaymondAve.jpg", null ], "34.00263052", "-118.4781981", [ null, "34.00263052", "-118.4781981", null, false ] ]
+, [ 50, "58C32F0D-B9CC-45E0-8ACA-E7479BC6E247", 50, 1411603366, "880550", 1411603366, "880550", "{\n}", "50", "John Byers 3rd Residence", "2034 La Mesa Dr", "2003-07-14T00:00:00", "1924", "John Byers", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/2034LaMesaDr.jpg", null ], "34.04501366", "-118.4979669", [ null, "34.04501366", "-118.4979669", null, false ] ]
+, [ 51, "499C865A-EC59-43DB-BAF4-3B8DF19A4D3C", 51, 1411603366, "880550", 1411603366, "880550", "{\n}", "51", "Eucalyptus deanei", "522 24th St", "2003-07-14T00:00:00", "na", "na", "About 90 years old.  Reportedly the tallest of this species in U.S.", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/eucalyptus.jpg", null ], "34.04218151", "-118.4884345", [ null, "34.04218151", "-118.4884345", null, false ] ]
+, [ 52, "DB2F23C9-EB8E-46B4-AAF4-09BAEE242074", 52, 1411603366, "880550", 1411603366, "880550", "{\n}", "52", "American Foursquare-Style Residence", "128 Hollister Ave", "2003-08-26T00:00:00", "105-6", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/128HollisterAve.jpg", null ], "34.00318946", "-118.4872586", [ null, "34.00318946", "-118.4872586", null, false ] ]
+, [ 53, "10E3E3FE-38EC-4FA8-8E29-E12FE160F524", 53, 1411603366, "880550", 1411603366, "880550", "{\n}", "53", "R.D. Farquhar Residence", "147 Georgina Ave", "2003-10-13T00:00:00", "1910-11", "R.D. Farquhar", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/147GeorginaAve.jpg", null ], "34.02673776", "-118.5115121", [ null, "34.02673776", "-118.5115121", null, false ] ]
+, [ 54, "367B9C7B-D0DD-4FA9-B11C-4DE672A23C9B", 54, 1411603366, "880550", 1411603366, "880550", "{\n}", "54", "Embassy Hotel Apartments", "1001 3rd St", "2003-10-13T00:00:00", "1927", "Arthur E. Harvey", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1001_3rdSt.jpg", null ], "34.02107788", "-118.5021628", [ null, "34.02107788", "-118.5021628", null, false ] ]
+, [ 55, "51EBF57B-DE79-42C4-ADC2-EE2869438A5C", 55, 1411603366, "880550", 1411603366, "880550", "{\n}", "55", "Strick House", "1911 La Mesa Dr", "2003-12-08T00:00:00", "1964", "Oscar Niemeyer", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1911lamesadr.jpg", null ], "34.04441206", "-118.4999428", [ null, "34.04441206", "-118.4999428", null, false ] ]
+, [ 56, "D886B479-783C-4CAC-A513-E1954C1B3577", 56, 1411603366, "880550", 1411603366, "880550", "{\n}", "56", "California Bungalow", "1414 Idaho Ave", "2003-12-08T00:00:00", "1923", "A. Scott", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1414IdahoAve.jpg", null ], "34.03107467", "-118.4930921", [ null, "34.03107467", "-118.4930921", null, false ] ]
+, [ 57, "28AC1032-46A6-44C2-8993-90ECDCB5BA18", 57, 1411603366, "880550", 1411603366, "880550", "{\n}", "57", "E.C. Japs/Crossland Residence", "2511 Beverly Ave", "2004-03-08T00:00:00", "1911", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/2511BeverlyAve.jpg", null ], "34.00630426", "-118.479798", [ null, "34.00630426", "-118.479798", null, false ] ]
+, [ 58, "4AA53B7A-E4EF-4365-A1D0-E122C0EF6230", 58, 1411603366, "880550", 1411603366, "880550", "{\n}", "58", "Spanish Colonial Revival Commercial Property", "1337 Ocean Ave", "2004-08-09T00:00:00", "1926", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1337OceanAve.jpg", null ], "34.01485749", "-118.4983267", [ null, "34.01485749", "-118.4983267", null, false ] ]
+, [ 59, "A5F29A24-4676-435F-8AE9-6C8A3EA8DC85", 59, 1411603366, "880550", 1411603366, "880550", "{\n}", "59", "Byers Adobe Residence", "404 Georgina Ave", "2004-12-13T00:00:00", "1923", "John Byers", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/404GeorginaAve.jpg", null ], "34.02823409", "-118.5089673", [ null, "34.02823409", "-118.5089673", null, false ] ]
+, [ 60, "50CA5C4D-8B38-497E-B76C-C5CE91880F7A", 60, 1411603366, "880550", 1411603366, "880550", "{\n}", "60", "Bay Cities Guaranty Building", "225 Santa Monica Blvd", "2004-12-13T00:00:00", "1929", "Walker & Eisen Architects", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/225SantaMonicaBlvd.jpg", null ], "34.01543642", "-118.4966019", [ null, "34.01543642", "-118.4966019", null, false ] ]
+, [ 61, "D6342E9A-9FF8-4FCF-86B6-31D59EDE1834", 61, 1411603366, "880550", 1411603366, "880550", "{\n}", "61", "Sears Main Building", "302 Colorado Ave", "2005-01-10T00:00:00", "1947", "Rowland H. Crawford", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/302ColoradoAve.jpg", null ], "34.01295739", "-118.4927374", [ null, "34.01295739", "-118.4927374", null, false ] ]
+, [ 62, "EF90BCDF-1B0C-4342-83EA-7B88A2A2C1FA", 62, 1411603366, "880550", 1411603366, "880550", "{\n}", "62", "\"Zucky's\" Wall Sign", "431 Wilshire Blvd", "2005-06-13T00:00:00", "1962", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/431WilshireBlvd.jpg", null ], "34.01995733", "-118.4977412", [ null, "34.01995733", "-118.4977412", null, false ] ]
+, [ 63, "2D298A43-D085-4530-9A46-EC8E8FECACE8", 63, 1411603366, "880550", 1411603366, "880550", "{\n}", "63", "Mediterranean/Classical Revival Style Residence", "331 Palisades Ave", "2005-07-11T00:00:00", "1913", "Frank L. Meline", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/331PalisadesAve.jpg", null ], "34.02546419", "-118.5061946", [ null, "34.02546419", "-118.5061946", null, false ] ]
+, [ 64, "3346C121-0BBE-4A95-9977-DA2C4E3046F0", 64, 1411603366, "880550", 1411603366, "880550", "{\n}", "64", "Santa Monica Professional Building", "710 Wilshire Blvd", "2005-07-11T00:00:00", "1928", "Arthur P. Harvey", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/710WilshireBlvd.jpg", null ], "34.02138804", "-118.4950245", [ null, "34.02138804", "-118.4950245", null, false ] ]
+, [ 65, "D9F0D1F2-748C-4415-A0ED-8E5603E0737E", 65, 1411603366, "880550", 1411603366, "880550", "{\n}", "65", "Phillips Chapel Christian Methodist Episcopal Church", "2001 4th St", "2005-10-10T00:00:00", "circa 1890", "Unknown", "Constructed circa 1890.  Located on site since 1908.", "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/2001_4thSt.jpg", null ], "34.0089798", "-118.4861762", [ null, "34.0089798", "-118.4861762", null, false ] ]
+, [ 66, "7CB86787-2209-4263-86EF-B806CED6CD4A", 66, 1411603366, "880550", 1411603366, "880550", "{\n}", "66", "Turn-of-the-Century Victorian Cottage", "1012 2nd St", "2005-09-12T00:00:00", "Circa 1898-1902", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1012_2ndSt.jpg", null ], "34.01977125", "-118.5032867", [ null, "34.01977125", "-118.5032867", null, false ] ]
+, [ 67, "4FA65C78-9CC3-4ACB-BC24-EA9970511A81", 67, 1411603366, "880550", 1411603366, "880550", "{\n}", "67", "Regency Moderne Apartment Building", "1143 11th St", "2005-11-14T00:00:00", "1938", "James M. Weaver", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1143_11thSt.jpg", null ], "34.02514067", "-118.4919299", [ null, "34.02514067", "-118.4919299", null, false ] ]
+, [ 68, "E6F1BAAF-95C8-4342-907E-D5B0753CFE7A", 68, 1411603366, "880550", 1411603366, "880550", "{\n}", "68", "Relocated Ocean Front Residence", "2323 5th Street", "2006-07-10T00:00:00", "Circa 1925", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/23235thSt.jpg", null ], "34.00691778", "-118.4825918", [ null, "34.00691778", "-118.4825918", null, false ] ]
+, [ 69, "CAFE0FB9-1974-48A5-96B1-4A7ADAC3B195", 69, 1411603366, "880550", 1411603366, "880550", "{\n}", "69", "Elkhorn Apartments/Sandy Bay House", "1401 Palisades Beach Road", "2006-07-10T00:00:00", "Circa 1909", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/1401PalisadesBchRd.jpg", null ], "34.01336416", "-118.4987958", [ null, "34.01336416", "-118.4987958", null, false ] ]
+, [ 70, "2A50014E-2087-4095-83FD-3BD70A21F0DE", 70, 1411603366, "880550", 1411603366, "880550", "{\n}", "70", "Tudor Craftsman Style Residence", "501 24th Street", "2006-08-14T00:00:00", "1912", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/501_24th_st.jpg", null ], "34.0428927", "-118.4882715", [ null, "34.0428927", "-118.4882715", null, false ] ]
+, [ 71, "4F908264-F75A-4AE4-9CD6-799566912B39", 71, 1411603366, "880550", 1411603366, "880550", "{\n}", "71", "Turn-of-the-Century Vernacular Beach Cottage", "2219 Ocean Avenue", "2006-08-14T00:00:00", "Circa 1905", "Unknown", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/2219_ocean_ave.jpg", null ], "34.00429524", "-118.4882368", [ null, "34.00429524", "-118.4882368", null, false ] ]
+, [ 72, "950459F3-63E7-4702-9235-0A69557CF70A", 72, 1411603366, "880550", 1411603366, "880550", "{\n}", "72", "The Teriton Apartments", "130-142 San Vicente Boulevard", "2007-06-12T00:00:00", "1950", "Sanford Kent", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/130sanVicente.jpg", null ], "34.02690518", "-118.5127349", [ null, "34.02690518", "-118.5127349", null, false ] ]
+, [ 73, "5F999C74-1808-43DB-ADD9-391EC958D0E4", 73, 1411603366, "880550", 1411603366, "880550", "{\n}", "73", "Horizons West Surf Shop", "2001-2011 Main Street", "2007-05-14T00:00:00", "1922", "J. L. Schrurs", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/2001_mainSt.jpg", null ], "34.00710504", "-118.4885341", [ null, "34.00710504", "-118.4885341", null, false ] ]
+, [ 74, "4186F1B1-154B-47A2-B4B9-A604EB7E7620", 74, 1411603366, "880550", 1411603366, "880550", "{\n}", "74", "Streamline Moderne Apartments", "822 Euclid Street", "2007-08-13T00:00:00", "1938", "Frank Bivens", null, "Landmark", [ "http://gismap.santa-monica.org/website/landmarkphotos/822EuclidSt.jpg", null ], "34.03064905", "-118.4957752", [ null, "34.03064905", "-118.4957752", null, false ] ]
+, [ 75, "82125ECA-6F03-4424-8AE9-08537F16905B", 75, 1411603366, "880550", 1411603366, "880550", "{\n}", "75", "Turn-of-the-Century Beach Cottage", "136 Hart Avenue", "2007-07-09T00:00:00", "1905", "Unknown", null, "Structure of Merit", [ "http://gismap.santa-monica.org/website/landmarkphotos/136HartAve.jpg", null ], "34.0022612", "-118.4860785", [ null, "34.0022612", "-118.4860785", null, false ] ]
+, [ 76, "6F913B91-5FDE-4EF3-B1B1-5A90607973A6", 76, 1411603366, "880550", 1411603366, "880550", "{\n}", "76", "Biedler-Heuer Building", "2701-2705 Main St", "2012-01-09T00:00:00", "1922", "Joseph F. Rhodes", null, "Landmark", [ null, null ], "34.00094809", "-118.4822085", [ null, "34.00094809", "-118.4822085", null, false ] ]
+, [ 77, "E6B48A00-7FD5-4EF1-BB07-DF9A6D08491A", 77, 1411603366, "880550", 1411603366, "880550", "{\n}", "77", "Turn-of-the-Century Cottage", "2501 2nd St", "2012-01-24T00:00:00", "1902", "Unknown", null, "Landmark", [ null, null ], "34.00358643", "-118.4837316", [ null, "34.00358643", "-118.4837316", null, false ] ]
+, [ 78, "53E5A567-1814-4687-8751-D2D882BCA946", 78, 1411603366, "880550", 1411603366, "880550", "{\n}", "78", "Santa Monica Pier Sign", "200 Santa Monica Pier", "2012-06-11T00:00:00", "1941", "Pan Pacific Neon Sign Company", null, "Landmark", [ null, null ], "34.01130728", "-118.4950829", [ null, "34.01130728", "-118.4950829", null, false ] ]
+, [ 79, "64849A67-6969-4704-AE53-AC2B0B7EABB9", 79, 1411603366, "880550", 1411603366, "880550", "{\n}", "476", "Chain Reaction Sculpture", "1855 Main Street", "2012-07-09T00:00:00", "1991", "Paul Conrad", null, "Landmark", [ null, null ], "34.00978115", "-118.4900902", [ null, "34.00978115", "-118.4900902", null, false ] ]
+, [ 80, "B11A98AE-1A9F-48AE-A3FE-7E4D999734AA", 80, 1411603366, "880550", 1411603366, "880550", "{\n}", "477", "Chez Jay Restaurant", "1657 Ocean Avenue", "2012-10-08T00:00:00", "1945", "Britton S. Shriver", null, "Landmark", [ null, null ], "34.01041194", "-118.4933208", [ null, "34.01041194", "-118.4933208", null, false ] ]
+, [ 81, "680F1952-91A0-4A82-B737-8E9C941EC047", 81, 1411603366, "880550", 1411603366, "880550", "{\n}", "478", "Craftsmen Bungalow", "642 Kensington Boulevard", "2012-12-10T00:00:00", "1917", "Unknown", null, "Landmark", [ null, null ], "34.00805396", "-118.4807714", [ null, "34.00805396", "-118.4807714", null, false ] ]
+, [ 82, "C1AEBB68-6EA5-4F0D-B6F2-FDA0F3EF871A", 82, 1411603366, "880550", 1411603366, "880550", "{\n}", "479", "Central Tower Building", "1424 Fourth St", "2013-03-11T00:00:00", "1929", "M. Eugene Durfee", null, "Landmark", [ null, null ], "34.01565274", "-118.4946517", [ null, "34.01565274", "-118.4946517", null, false ] ]
+, [ 83, "C7DDB37A-A5C4-4235-94DE-19F5F25458A8", 83, 1411603366, "880550", 1411603366, "880550", "{\n}", "480", "Art Deco Commercial Building", "301-315 Wilshire Boulevard", "2013-04-08T00:00:00", "1930", "Irvin Goodfellow", null, "Landmark", [ null, null ], "34.01877335", "-118.4991389", [ null, "34.01877335", "-118.4991389", null, false ] ]
+, [ 84, "6A643927-27BB-4A91-9D7A-45685D97401C", 84, 1411603366, "880550", 1411603366, "880550", "{\n}", "481", "\"Bowl\" Sign", "234 Pico Boulevard", "2013-09-08T00:00:00", "1958", "William L. Rudolph", null, "Landmark", [ null, null ], "34.00840829", "-118.4888227", [ null, "34.00840829", "-118.4888227", null, false ] ]
+, [ 85, "2AF3D171-2CCC-4BA4-8F60-AFDFEBDF6783", 85, 1411603366, "880550", 1411603366, "880550", "{\n}", "482", "American Foursquare Residence", "142 Hollister Avenue", "2008-11-10T00:00:00", "Circa 1902-1909", "Unknown", null, "Structure of Merit", [ null, null ], "34.0035789", "-118.4866831", [ null, "34.0035789", "-118.4866831", null, false ] ]
+, [ 86, "324571B2-DA1D-4D24-8966-647FED917FC0", 86, 1411603366, "880550", 1411603366, "880550", "{\n}", "483", "Craftsman Beach Bungalow", "3018 Third Street", "2009-05-11T00:00:00", "1911", "Unknown", null, "Structure of Merit", [ null, null ], "33.99930013", "-118.478629", [ null, "33.99930013", "-118.478629", null, false ] ]
+, [ 87, "B0703CC5-FBA8-4881-AFD6-67BA8CDB2027", 87, 1411603366, "880550", 1411603366, "880550", "{\n}", "484", "Palisades Building", "101 Wilshire Boulevard", "2013-04-08T00:00:00", "1924", "William Ache", null, "Landmark", [ null, null ], "34.01784789", "-118.5010786", [ null, "34.01784789", "-118.5010786", null, false ] ]
+ ]
+}
